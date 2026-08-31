@@ -1,0 +1,112 @@
+{"type":"node","id":"40","labels":["Instance"],"properties":{"name":"overal value"}}
+{"type":"node","id":"41","labels":["Instance"],"properties":{"name":"oil demand"}}
+{"type":"node","id":"96","labels":["Concept"],"properties":{"name":"supply"}}
+{"type":"node","id":"97","labels":["Concept"],"properties":{"name":"political event"}}
+{"type":"node","id":"98","labels":["Concept"],"properties":{"name":"US election"}}
+{"type":"node","id":"99","labels":["Concept"],"properties":{"name":"geopolitical event"}}
+{"type":"node","id":"100","labels":["Concept"],"properties":{"name":"war"}}
+{"type":"node","id":"101","labels":["Concept"],"properties":{"name":"demand"}}
+{"type":"node","id":"102","labels":["Concept"],"properties":{"name":"market"}}
+{"type":"node","id":"103","labels":["Concept"],"properties":{"name":"currency"}}
+{"type":"node","id":"104","labels":["Concept"],"properties":{"name":"oil producer"}}
+{"type":"node","id":"105","labels":["Concept"],"properties":{"name":"Middle East countires"}}
+{"type":"node","id":"106","labels":["Concept"],"properties":{"name":"US market"}}
+{"type":"node","id":"107","labels":["Concept"],"properties":{"name":"international sanction"}}
+{"type":"node","id":"108","labels":["Concept"],"properties":{"name":"economy growth"}}
+{"type":"node","id":"109","labels":["Concept"],"properties":{"name":"country"}}
+{"type":"node","id":"110","labels":["Instance"],"properties":{"name":"oil price"}}
+{"type":"node","id":"111","labels":["Instance"],"properties":{"name":"Russia_Ukraine war"}}
+{"type":"node","id":"112","labels":["Instance"],"properties":{"name":"7th october event"}}
+{"type":"node","id":"113","labels":["Instance"],"properties":{"name":"oil production"}}
+{"type":"node","id":"114","labels":["Instance"],"properties":{"name":"oil supply"}}
+{"type":"node","id":"115","labels":["Instance"],"properties":{"name":"Middle East conflicts"}}
+{"type":"node","id":"116","labels":["Instance"],"properties":{"name":"syria revoloution"}}
+{"type":"node","id":"117","labels":["Instance"],"properties":{"name":"Bab al-Mandab Strait insecurity"}}
+{"type":"node","id":"118","labels":["Instance"],"properties":{"name":"republican victory"}}
+{"type":"node","id":"119","labels":["Instance"],"properties":{"name":"EUR"}}
+{"type":"node","id":"120","labels":["Instance"],"properties":{"name":"USD"}}
+{"type":"node","id":"121","labels":["Instance"],"properties":{"name":"Russia"}}
+{"type":"node","id":"122","labels":["Instance"],"properties":{"name":"USA"}}
+{"type":"node","id":"123","labels":["Instance"],"properties":{"name":"2024 Us Election"}}
+{"type":"node","id":"124","labels":["Instance"],"properties":{"name":"gold price"}}
+{"type":"node","id":"125","labels":["Instance"],"properties":{"name":"inflation"}}
+{"type":"node","id":"126","labels":["Instance"],"properties":{"name":"currency value"}}
+{"type":"node","id":"127","labels":["Instance"],"properties":{"name":"forex market"}}
+{"type":"node","id":"128","labels":["Instance"],"properties":{"name":"stock market"}}
+{"type":"node","id":"129","labels":["Instance"],"properties":{"name":"Tension"}}
+{"type":"node","id":"130","labels":["Instance"],"properties":{"name":"russia sanctions "}}
+{"type":"node","id":"131","labels":["Instance"],"properties":{"name":"Europe"}}
+{"type":"node","id":"132","labels":["Instance"],"properties":{"name":"risk level "}}
+{"type":"node","id":"133","labels":["Instance"],"properties":{"name":"Iran sanctions"}}
+{"type":"node","id":"134","labels":["Instance"],"properties":{"name":"Iran"}}
+{"type":"node","id":"135","labels":["Instance"],"properties":{"name":"global activity"}}
+{"type":"node","id":"136","labels":["Instance"],"properties":{"name":"china rapid growth"}}
+{"type":"node","id":"137","labels":["Instance"],"properties":{"name":"India rapid Growth"}}
+{"type":"node","id":"138","labels":["Instance"],"properties":{"name":"China"}}
+{"type":"node","id":"139","labels":["Instance"],"properties":{"name":"Taiwan"}}
+{"type":"node","id":"140","labels":["Instance"],"properties":{"name":"Asia north esat tensin"}}
+{"type":"node","id":"141","labels":["Instance"],"properties":{"name":"north america tensions"}}
+{"type":"relationship","id":"1152948992397541416","label":"negativelyCorrelatedWith","start":{"id":"40","labels":["Instance"],"properties":{"name":"overal value"}},"end":{"id":"132","labels":["Instance"],"properties":{"name":"risk level "}}}
+{"type":"relationship","id":"1152945693862658089","label":"is a","start":{"id":"41","labels":["Instance"],"properties":{"name":"oil demand"}},"end":{"id":"101","labels":["Concept"],"properties":{"name":"demand"}}}
+{"type":"relationship","id":"1152945693862658146","label":"is a","start":{"id":"98","labels":["Concept"],"properties":{"name":"US election"}},"end":{"id":"97","labels":["Concept"],"properties":{"name":"political event"}}}
+{"type":"relationship","id":"1152945693862658148","label":"is a","start":{"id":"100","labels":["Concept"],"properties":{"name":"war"}},"end":{"id":"99","labels":["Concept"],"properties":{"name":"geopolitical event"}}}
+{"type":"relationship","id":"1152961087025447012","label":"decrease","start":{"id":"100","labels":["Concept"],"properties":{"name":"war"}},"end":{"id":"113","labels":["Instance"],"properties":{"name":"oil production"}}}
+{"type":"relationship","id":"1152946793374285925","label":"positivelyCorrelatedWith","start":{"id":"101","labels":["Concept"],"properties":{"name":"demand"}},"end":{"id":"110","labels":["Instance"],"properties":{"name":"oil price"}}}
+{"type":"relationship","id":"1152950091909169254","label":"hasAttribute","start":{"id":"102","labels":["Concept"],"properties":{"name":"market"}},"end":{"id":"40","labels":["Instance"],"properties":{"name":"overal value"}}}
+{"type":"relationship","id":"1152950091909169255","label":"hasAttribute","start":{"id":"103","labels":["Concept"],"properties":{"name":"currency"}},"end":{"id":"126","labels":["Instance"],"properties":{"name":"currency value"}}}
+{"type":"relationship","id":"1152962186537074792","label":"control","start":{"id":"104","labels":["Concept"],"properties":{"name":"oil producer"}},"end":{"id":"113","labels":["Instance"],"properties":{"name":"oil production"}}}
+{"type":"relationship","id":"1152945693862658153","label":"is a","start":{"id":"105","labels":["Concept"],"properties":{"name":"Middle East countires"}},"end":{"id":"104","labels":["Concept"],"properties":{"name":"oil producer"}}}
+{"type":"relationship","id":"1152956688978935913","label":"involvedIn","start":{"id":"105","labels":["Concept"],"properties":{"name":"Middle East countires"}},"end":{"id":"112","labels":["Instance"],"properties":{"name":"7th october event"}}}
+{"type":"relationship","id":"1152945693862658154","label":"is a","start":{"id":"106","labels":["Concept"],"properties":{"name":"US market"}},"end":{"id":"102","labels":["Concept"],"properties":{"name":"market"}}}
+{"type":"relationship","id":"1152945693862658155","label":"is a","start":{"id":"107","labels":["Concept"],"properties":{"name":"international sanction"}},"end":{"id":"99","labels":["Concept"],"properties":{"name":"geopolitical event"}}}
+{"type":"relationship","id":"1152955589467308139","label":"increase","start":{"id":"107","labels":["Concept"],"properties":{"name":"international sanction"}},"end":{"id":"132","labels":["Instance"],"properties":{"name":"risk level "}}}
+{"type":"relationship","id":"1152955589467308140","label":"increase","start":{"id":"108","labels":["Concept"],"properties":{"name":"economy growth"}},"end":{"id":"135","labels":["Instance"],"properties":{"name":"global activity"}}}
+{"type":"relationship","id":"1155198593187971182","label":"positivelyCorrelatedWith","start":{"id":"110","labels":["Instance"],"properties":{"name":"oil price"}},"end":{"id":"125","labels":["Instance"],"properties":{"name":"inflation"}}}
+{"type":"relationship","id":"1152945693862658159","label":"is a","start":{"id":"111","labels":["Instance"],"properties":{"name":"Russia_Ukraine war"}},"end":{"id":"100","labels":["Concept"],"properties":{"name":"war"}}}
+{"type":"relationship","id":"1152959987513819247","label":"decreaseValueOf","start":{"id":"111","labels":["Instance"],"properties":{"name":"Russia_Ukraine war"}},"end":{"id":"119","labels":["Instance"],"properties":{"name":"EUR"}}}
+{"type":"relationship","id":"1152945693862658160","label":"is a","start":{"id":"112","labels":["Instance"],"properties":{"name":"7th october event"}},"end":{"id":"100","labels":["Concept"],"properties":{"name":"war"}}}
+{"type":"relationship","id":"1152947892885913713","label":"determine","start":{"id":"113","labels":["Instance"],"properties":{"name":"oil production"}},"end":{"id":"114","labels":["Instance"],"properties":{"name":"oil supply"}}}
+{"type":"relationship","id":"1152945693862658162","label":"is a","start":{"id":"114","labels":["Instance"],"properties":{"name":"oil supply"}},"end":{"id":"96","labels":["Concept"],"properties":{"name":"supply"}}}
+{"type":"relationship","id":"1152948992397541490","label":"negativelyCorrelatedWith","start":{"id":"114","labels":["Instance"],"properties":{"name":"oil supply"}},"end":{"id":"110","labels":["Instance"],"properties":{"name":"oil price"}}}
+{"type":"relationship","id":"1152953390444052595","label":"caused by","start":{"id":"115","labels":["Instance"],"properties":{"name":"Middle East conflicts"}},"end":{"id":"112","labels":["Instance"],"properties":{"name":"7th october event"}}}
+{"type":"relationship","id":"1152953390444052596","label":"caused by","start":{"id":"116","labels":["Instance"],"properties":{"name":"syria revoloution"}},"end":{"id":"112","labels":["Instance"],"properties":{"name":"7th october event"}}}
+{"type":"relationship","id":"1152953390444052597","label":"caused by","start":{"id":"117","labels":["Instance"],"properties":{"name":"Bab al-Mandab Strait insecurity"}},"end":{"id":"112","labels":["Instance"],"properties":{"name":"7th october event"}}}
+{"type":"relationship","id":"1152959987513819253","label":"decreaseValueOf","start":{"id":"117","labels":["Instance"],"properties":{"name":"Bab al-Mandab Strait insecurity"}},"end":{"id":"120","labels":["Instance"],"properties":{"name":"USD"}}}
+{"type":"relationship","id":"1152945693862658166","label":"is a","start":{"id":"118","labels":["Instance"],"properties":{"name":"republican victory"}},"end":{"id":"97","labels":["Concept"],"properties":{"name":"political event"}}}
+{"type":"relationship","id":"1152958888002191478","label":"increaseValueOf","start":{"id":"118","labels":["Instance"],"properties":{"name":"republican victory"}},"end":{"id":"120","labels":["Instance"],"properties":{"name":"USD"}}}
+{"type":"relationship","id":"1152945693862658167","label":"is a","start":{"id":"119","labels":["Instance"],"properties":{"name":"EUR"}},"end":{"id":"103","labels":["Concept"],"properties":{"name":"currency"}}}
+{"type":"relationship","id":"1152945693862658168","label":"is a","start":{"id":"120","labels":["Instance"],"properties":{"name":"USD"}},"end":{"id":"103","labels":["Concept"],"properties":{"name":"currency"}}}
+{"type":"relationship","id":"1152946793374285944","label":"positivelyCorrelatedWith","start":{"id":"120","labels":["Instance"],"properties":{"name":"USD"}},"end":{"id":"106","labels":["Concept"],"properties":{"name":"US market"}}}
+{"type":"relationship","id":"1152945693862658169","label":"is a","start":{"id":"121","labels":["Instance"],"properties":{"name":"Russia"}},"end":{"id":"104","labels":["Concept"],"properties":{"name":"oil producer"}}}
+{"type":"relationship","id":"1155197493676343417","label":"is a","start":{"id":"121","labels":["Instance"],"properties":{"name":"Russia"}},"end":{"id":"109","labels":["Concept"],"properties":{"name":"country"}}}
+{"type":"relationship","id":"1152956688978935929","label":"involvedIn","start":{"id":"121","labels":["Instance"],"properties":{"name":"Russia"}},"end":{"id":"111","labels":["Instance"],"properties":{"name":"Russia_Ukraine war"}}}
+{"type":"relationship","id":"1152963286048702585","label":"isCountrySanctionedIn","start":{"id":"121","labels":["Instance"],"properties":{"name":"Russia"}},"end":{"id":"130","labels":["Instance"],"properties":{"name":"russia sanctions "}}}
+{"type":"relationship","id":"1152945693862658170","label":"is a","start":{"id":"122","labels":["Instance"],"properties":{"name":"USA"}},"end":{"id":"104","labels":["Concept"],"properties":{"name":"oil producer"}}}
+{"type":"relationship","id":"1155197493676343418","label":"is a","start":{"id":"122","labels":["Instance"],"properties":{"name":"USA"}},"end":{"id":"109","labels":["Concept"],"properties":{"name":"country"}}}
+{"type":"relationship","id":"1152945693862658171","label":"is a","start":{"id":"123","labels":["Instance"],"properties":{"name":"2024 Us Election"}},"end":{"id":"98","labels":["Concept"],"properties":{"name":"US election"}}}
+{"type":"relationship","id":"1152954489955680379","label":"hasNegativeEffectOn","start":{"id":"123","labels":["Instance"],"properties":{"name":"2024 Us Election"}},"end":{"id":"106","labels":["Concept"],"properties":{"name":"US market"}}}
+{"type":"relationship","id":"1152946793374285949","label":"positivelyCorrelatedWith","start":{"id":"125","labels":["Instance"],"properties":{"name":"inflation"}},"end":{"id":"124","labels":["Instance"],"properties":{"name":"gold price"}}}
+{"type":"relationship","id":"1152948992397541502","label":"negativelyCorrelatedWith","start":{"id":"126","labels":["Instance"],"properties":{"name":"currency value"}},"end":{"id":"125","labels":["Instance"],"properties":{"name":"inflation"}}}
+{"type":"relationship","id":"1152945693862658175","label":"is a","start":{"id":"127","labels":["Instance"],"properties":{"name":"forex market"}},"end":{"id":"106","labels":["Concept"],"properties":{"name":"US market"}}}
+{"type":"relationship","id":"1152945693862658176","label":"is a","start":{"id":"128","labels":["Instance"],"properties":{"name":"stock market"}},"end":{"id":"106","labels":["Concept"],"properties":{"name":"US market"}}}
+{"type":"relationship","id":"1152945693862658177","label":"is a","start":{"id":"129","labels":["Instance"],"properties":{"name":"Tension"}},"end":{"id":"99","labels":["Concept"],"properties":{"name":"geopolitical event"}}}
+{"type":"relationship","id":"1152945693862658178","label":"is a","start":{"id":"130","labels":["Instance"],"properties":{"name":"russia sanctions "}},"end":{"id":"107","labels":["Concept"],"properties":{"name":"international sanction"}}}
+{"type":"relationship","id":"1152957788490563714","label":"sanctionedBy","start":{"id":"130","labels":["Instance"],"properties":{"name":"russia sanctions "}},"end":{"id":"122","labels":["Instance"],"properties":{"name":"USA"}}}
+{"type":"relationship","id":"1155209588304248962","label":"sanctionedBy","start":{"id":"130","labels":["Instance"],"properties":{"name":"russia sanctions "}},"end":{"id":"131","labels":["Instance"],"properties":{"name":"Europe"}}}
+{"type":"relationship","id":"1152946793374285956","label":"positivelyCorrelatedWith","start":{"id":"132","labels":["Instance"],"properties":{"name":"risk level "}},"end":{"id":"124","labels":["Instance"],"properties":{"name":"gold price"}}}
+{"type":"relationship","id":"1152945693862658181","label":"is a","start":{"id":"133","labels":["Instance"],"properties":{"name":"Iran sanctions"}},"end":{"id":"107","labels":["Concept"],"properties":{"name":"international sanction"}}}
+{"type":"relationship","id":"1152957788490563717","label":"sanctionedBy","start":{"id":"133","labels":["Instance"],"properties":{"name":"Iran sanctions"}},"end":{"id":"122","labels":["Instance"],"properties":{"name":"USA"}}}
+{"type":"relationship","id":"1152945693862658182","label":"is a","start":{"id":"134","labels":["Instance"],"properties":{"name":"Iran"}},"end":{"id":"105","labels":["Concept"],"properties":{"name":"Middle East countires"}}}
+{"type":"relationship","id":"1155197493676343430","label":"is a","start":{"id":"134","labels":["Instance"],"properties":{"name":"Iran"}},"end":{"id":"109","labels":["Concept"],"properties":{"name":"country"}}}
+{"type":"relationship","id":"1152963286048702598","label":"isCountrySanctionedIn","start":{"id":"134","labels":["Instance"],"properties":{"name":"Iran"}},"end":{"id":"133","labels":["Instance"],"properties":{"name":"Iran sanctions"}}}
+{"type":"relationship","id":"1152947892885913735","label":"determine","start":{"id":"135","labels":["Instance"],"properties":{"name":"global activity"}},"end":{"id":"41","labels":["Instance"],"properties":{"name":"oil demand"}}}
+{"type":"relationship","id":"1152945693862658184","label":"is a","start":{"id":"136","labels":["Instance"],"properties":{"name":"china rapid growth"}},"end":{"id":"108","labels":["Concept"],"properties":{"name":"economy growth"}}}
+{"type":"relationship","id":"1152945693862658185","label":"is a","start":{"id":"137","labels":["Instance"],"properties":{"name":"India rapid Growth"}},"end":{"id":"108","labels":["Concept"],"properties":{"name":"economy growth"}}}
+{"type":"relationship","id":"1152945693862658186","label":"is a","start":{"id":"138","labels":["Instance"],"properties":{"name":"China"}},"end":{"id":"109","labels":["Concept"],"properties":{"name":"country"}}}
+{"type":"relationship","id":"1152945693862658187","label":"is a","start":{"id":"139","labels":["Instance"],"properties":{"name":"Taiwan"}},"end":{"id":"109","labels":["Concept"],"properties":{"name":"country"}}}
+{"type":"relationship","id":"1152945693862658188","label":"is a","start":{"id":"140","labels":["Instance"],"properties":{"name":"Asia north esat tensin"}},"end":{"id":"129","labels":["Instance"],"properties":{"name":"Tension"}}}
+{"type":"relationship","id":"1152951191420797068","label":"causedby","start":{"id":"140","labels":["Instance"],"properties":{"name":"Asia north esat tensin"}},"end":{"id":"138","labels":["Instance"],"properties":{"name":"China"}}}
+{"type":"relationship","id":"1152952290932424844","label":"causedBy","start":{"id":"140","labels":["Instance"],"properties":{"name":"Asia north esat tensin"}},"end":{"id":"139","labels":["Instance"],"properties":{"name":"Taiwan"}}}
+{"type":"relationship","id":"1152955589467308172","label":"increase","start":{"id":"140","labels":["Instance"],"properties":{"name":"Asia north esat tensin"}},"end":{"id":"132","labels":["Instance"],"properties":{"name":"risk level "}}}
+{"type":"relationship","id":"1152945693862658189","label":"is a","start":{"id":"141","labels":["Instance"],"properties":{"name":"north america tensions"}},"end":{"id":"129","labels":["Instance"],"properties":{"name":"Tension"}}}
+{"type":"relationship","id":"1152952290932424845","label":"causedBy","start":{"id":"141","labels":["Instance"],"properties":{"name":"north america tensions"}},"end":{"id":"118","labels":["Instance"],"properties":{"name":"republican victory"}}}

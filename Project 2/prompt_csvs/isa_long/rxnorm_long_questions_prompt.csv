@@ -1,0 +1,101 @@
+id,question
+rxnorm_q1,Is 'Chemical Viewed Structurally' a type of 'Entity'?
+rxnorm_q2,"Is 'Amino Acid, Peptide, or Protein' a type of 'Physical Object'?"
+rxnorm_q3,Is 'Cell or Molecular Dysfunction' a type of 'Event'?
+rxnorm_q4,Is 'Cell or Molecular Dysfunction' a type of 'Event'?
+rxnorm_q5,Is 'Vertebrate' a type of 'Entity'?
+rxnorm_q6,Is 'Chemical Viewed Functionally' a type of 'Entity'?
+rxnorm_q7,Is 'Bird' a type of 'Physical Object'?
+rxnorm_q8,Is 'Reptile' a type of 'Organism'?
+rxnorm_q9,Is 'Drug Delivery Device' a type of 'Entity'?
+rxnorm_q10,Is 'Plant' a type of 'Entity'?
+rxnorm_q11,Is 'Neoplastic Process' a type of 'Phenomenon or Process'?
+rxnorm_q12,Is 'Pharmacologic Substance' a type of 'Physical Object'?
+rxnorm_q13,Is 'Tissue' a type of 'Entity'?
+rxnorm_q14,Is 'Acquired Abnormality' a type of 'Entity'?
+rxnorm_q15,Is 'Cell or Molecular Dysfunction' a type of 'Phenomenon or Process'?
+rxnorm_q16,"Is 'Element, Ion, or Isotope' a type of 'Entity'?"
+rxnorm_q17,Is 'Organism Function' a type of 'Event'?
+rxnorm_q18,Is 'Pharmacologic Substance' a type of 'Entity'?
+rxnorm_q19,Is 'Neoplastic Process' a type of 'Natural Phenomenon or Process'?
+rxnorm_q20,Is 'Immunologic Factor' a type of 'Substance'?
+rxnorm_q21,Is 'Reptile' a type of 'Physical Object'?
+rxnorm_q22,Is 'Genetic Function' a type of 'Phenomenon or Process'?
+rxnorm_q23,Is 'Laboratory Procedure' a type of 'Event'?
+rxnorm_q24,Is 'Biomedical or Dental Material' a type of 'Entity'?
+rxnorm_q25,Is 'Bird' a type of 'Physical Object'?
+rxnorm_q26,Is 'Gene or Genome' a type of 'Entity'?
+rxnorm_q27,Is 'Reptile' a type of 'Entity'?
+rxnorm_q28,Is 'Mammal' a type of 'Entity'?
+rxnorm_q29,Is 'Cell or Molecular Dysfunction' a type of 'Phenomenon or Process'?
+rxnorm_q30,Is 'Neoplastic Process' a type of 'Event'?
+rxnorm_q31,Is 'Fish' a type of 'Entity'?
+rxnorm_q32,Is 'Body System' a type of 'Entity'?
+rxnorm_q33,Is 'Mental Process' a type of 'Event'?
+rxnorm_q34,Is 'Reptile' a type of 'Physical Object'?
+rxnorm_q35,Is 'Reptile' a type of 'Physical Object'?
+rxnorm_q36,Is 'Animal' a type of 'Entity'?
+rxnorm_q37,Is 'Organism Function' a type of 'Phenomenon or Process'?
+rxnorm_q38,Is 'Geographic Area' a type of 'Entity'?
+rxnorm_q39,"Is 'Indicator, Reagent, or Diagnostic Aid' a type of 'Entity'?"
+rxnorm_q40,Is 'Tissue' a type of 'Entity'?
+rxnorm_q41,Is 'Animal' a type of 'Entity'?
+rxnorm_q42,Is 'Pharmacologic Substance' a type of 'Physical Object'?
+rxnorm_q43,"Is 'Indicator, Reagent, or Diagnostic Aid' a type of 'Physical Object'?"
+rxnorm_q44,Is 'Vitamin' a type of 'Physical Object'?
+rxnorm_q45,Is 'Fish' a type of 'Physical Object'?
+rxnorm_q46,Is 'Laboratory Procedure' a type of 'Event'?
+rxnorm_q47,"Is 'Nucleic Acid, Nucleoside, or Nucleotide' a type of 'Entity'?"
+rxnorm_q48,Is 'Organism Function' a type of 'Phenomenon or Process'?
+rxnorm_q49,"Is 'Nucleic Acid, Nucleoside, or Nucleotide' a type of 'Entity'?"
+rxnorm_q50,Is 'Cell or Molecular Dysfunction' a type of 'Phenomenon or Process'?
+rxnorm_q51,Is 'Molecular Function' a type of 'Medical Device'?
+rxnorm_q52,"Is 'Occupation or Discipline' a type of 'Element, Ion, or Isotope'?"
+rxnorm_q53,Is 'Quantitative Concept' a type of 'Disease or Syndrome'?
+rxnorm_q54,Is 'Organ or Tissue Function' a type of 'Cell'?
+rxnorm_q55,Is 'Qualitative Concept' a type of 'Cell'?
+rxnorm_q56,Is 'Chemical' a type of 'Body Space or Junction'?
+rxnorm_q57,Is 'Classification' a type of 'Bacterium'?
+rxnorm_q58,Is 'Drug Delivery Device' a type of 'Eukaryote'?
+rxnorm_q59,Is 'Pharmacologic Substance' a type of 'Animal'?
+rxnorm_q60,Is 'Mammal' a type of 'Cell'?
+rxnorm_q61,Is 'Geographic Area' a type of 'Mental or Behavioral Dysfunction'?
+rxnorm_q62,Is 'Event' a type of 'Physical Object'?
+rxnorm_q63,Is 'Biomedical Occupation or Discipline' a type of 'Health Care Related Organization'?
+rxnorm_q64,Is 'Amphibian' a type of 'Cell or Molecular Dysfunction'?
+rxnorm_q65,Is 'Hormone' a type of 'Organism'?
+rxnorm_q66,Is 'Pathologic Function' a type of 'Laboratory or Test Result'?
+rxnorm_q67,Is 'Biologically Active Substance' a type of 'Medical Device'?
+rxnorm_q68,Is 'Cell Function' a type of 'Language'?
+rxnorm_q69,Is 'Entity' a type of 'Organism Attribute'?
+rxnorm_q70,Is 'Cell Component' a type of 'Biologically Active Substance'?
+rxnorm_q71,Is 'Social Behavior' a type of 'Self-help or Relief Organization'?
+rxnorm_q72,Is 'Genetic Function' a type of 'Food'?
+rxnorm_q73,Is 'Chemical' a type of 'Receptor'?
+rxnorm_q74,Is 'Acquired Abnormality' a type of 'Health Care Activity'?
+rxnorm_q75,Is 'Enzyme' a type of 'Professional or Occupational Group'?
+rxnorm_q76,Is 'Classification' a type of 'Mental Process'?
+rxnorm_q77,Is 'Behavior' a type of 'Mammal'?
+rxnorm_q78,Is 'Machine Activity' a type of 'Pharmacologic Substance'?
+rxnorm_q79,Is 'Vitamin' a type of 'Anatomical Structure'?
+rxnorm_q80,"Is 'Element, Ion, or Isotope' a type of 'Pharmacologic Substance'?"
+rxnorm_q81,Is 'Mental or Behavioral Dysfunction' a type of 'Hormone'?
+rxnorm_q82,Is 'Chemical Viewed Functionally' a type of 'Cell Component'?
+rxnorm_q83,Is 'Organic Chemical' a type of 'Cell Function'?
+rxnorm_q84,Is 'Vitamin' a type of 'Hazardous or Poisonous Substance'?
+rxnorm_q85,Is 'Occupational Activity' a type of 'Health Care Activity'?
+rxnorm_q86,Is 'Experimental Model of Disease' a type of 'Reptile'?
+rxnorm_q87,Is 'Body Location or Region' a type of 'Inorganic Chemical'?
+rxnorm_q88,Is 'Pharmacologic Substance' a type of 'Body System'?
+rxnorm_q89,Is 'Cell Component' a type of 'Cell Function'?
+rxnorm_q90,Is 'Food' a type of 'Chemical Viewed Functionally'?
+rxnorm_q91,Is 'Organic Chemical' a type of 'Molecular Biology Research Technique'?
+rxnorm_q92,Is 'Regulation or Law' a type of 'Antibiotic'?
+rxnorm_q93,"Is 'Laboratory Procedure' a type of 'Nucleic Acid, Nucleoside, or Nucleotide'?"
+rxnorm_q94,Is 'Nucleotide Sequence' a type of 'Gene or Genome'?
+rxnorm_q95,"Is 'Amphibian' a type of 'Element, Ion, or Isotope'?"
+rxnorm_q96,Is 'Organism Function' a type of 'Bird'?
+rxnorm_q97,Is 'Physical Object' a type of 'Molecular Biology Research Technique'?
+rxnorm_q98,Is 'Research Activity' a type of 'Social Behavior'?
+rxnorm_q99,Is 'Organ or Tissue Function' a type of 'Temporal Concept'?
+rxnorm_q100,"Is 'Biomedical Occupation or Discipline' a type of 'Nucleic Acid, Nucleoside, or Nucleotide'?"

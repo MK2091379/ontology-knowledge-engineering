@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "rxnorm_q57",
+    "question": "Is 'Classification' a type of 'Bacterium'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q21",
+    "question": "Is 'triphones' a type of 'database systems'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q92",
+    "question": "Is 'Inferior angle of right scapula' a type of 'Lobule of sebaceous gland'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q19",
+    "question": "Is 'Neoplastic Process' a type of 'Natural Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q49",
+    "question": "Is 'Sakala' a type of 'Pserimos (island)'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q80",
+    "question": "Is 'Element, Ion, or Isotope' a type of 'Pharmacologic Substance'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q42",
+    "question": "Is 'Forum of Mactaris' a type of 'Sarapionos Chairemonos'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q84",
+    "question": "Is 'Set of fimbriae of hippocampus' a type of 'Systemic capillary bed'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q83",
+    "question": "Is 'Left ureteral orifice' a type of 'Intervertebral disk of fifth thoracic vertebra'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q71",
+    "question": "Is 'Brodmann area 24 of right cingulate gyrus' a type of 'Medial cord segment of C8 root of left medial antebrachial cutaneous nerve'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q38",
+    "question": "Is 'Geographic Area' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q75",
+    "question": "Is 'kalman filter algorithms' a type of 'neural-symbolic integration'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q78",
+    "question": "Is 'Machine Activity' a type of 'Pharmacologic Substance'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q56",
+    "question": "Is 'Vasculature of left ring finger' a type of 'Groove for left third rib'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q45",
+    "question": "Is 'rate distortion theory' a type of 'computer imaging and vision'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q59",
+    "question": "Is 'Cartilage of left superior surface of posterolateral part of body of fourth thoracic vertebra' a type of 'Inferoposterior lobule of prostate'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q85",
+    "question": "Is 'snmp' a type of 'hybrid recommendation'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q34",
+    "question": "Is 'Trunk of branch of right anterior choroidal artery to red nucleus' a type of 'Systemic arterial trunk'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q94",
+    "question": "Is 'Costal groove of lobe of lung' a type of 'Transverse branch of meningeal branch of left sixth thoracic nerve'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q63",
+    "question": "Is 'Biomedical Occupation or Discipline' a type of 'Health Care Related Organization'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q7",
+    "question": "Is 'Bird' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q83",
+    "question": "Is 'morphological filter' a type of 'ant systems'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q86",
+    "question": "Is 'Experimental Model of Disease' a type of 'Reptile'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q32",
+    "question": "Is 'Bir Madkhur' a type of 'Thagaste'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q60",
+    "question": "Is 'Umbilical fold' a type of 'Compact bone of posterolateral part of body of fourth lumbar vertebra'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q60",
+    "question": "Is 'software frameworks' a type of 'frequency control'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q57",
+    "question": "Is 'doherty power amplifier' a type of 'understandability'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q3",
+    "question": "Is 'Cell or Molecular Dysfunction' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q19",
+    "question": "Is 'multimodal dialogue systems' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q66",
+    "question": "Is 'context recognition' a type of 'texas instruments'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q91",
+    "question": "Is 'External surface of ureter proper' a type of 'Set of trabeculae of left corpus cavernosum of penis'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q66",
+    "question": "Is 'Pathologic Function' a type of 'Laboratory or Test Result'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q19",
+    "question": "Is 'Solitary lymphoid follicle of jejunum' a type of 'Organized mucosa-associated lymphoid tissue'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q23",
+    "question": "Is 'Laboratory Procedure' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q61",
+    "question": "Is 'Geographic Area' a type of 'Mental or Behavioral Dysfunction'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q35",
+    "question": "Is 'Reptile' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q29",
+    "question": "Is 'binoculars' a type of 'computer imaging and vision'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q1",
+    "question": "Is 'Chemical Viewed Structurally' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q1",
+    "question": "Is 'Right acetabular fossa' a type of 'Anatomical surface'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q40",
+    "question": "Is 'Fulginiae' a type of 'Pompeiacum/Vernemetis'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q74",
+    "question": "Is 'Neural network of atrium' a type of 'Set of norepinephric cells in caudolateral pons [A5]'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q99",
+    "question": "Is 'Organ or Tissue Function' a type of 'Temporal Concept'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q79",
+    "question": "Is 'Synovial fluid of left proximal radioulnar joint' a type of 'Nerve to right pronator quadratus'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q27",
+    "question": "Is 'huffman' a type of 'image analysis'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q93",
+    "question": "Is 'Labial part of vestibule of mouth' a type of 'Intertrochanteric line'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q31",
+    "question": "Is 'Lumen of lobular lactiferous duct' a type of 'Physical anatomical entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q83",
+    "question": "Is 'Organic Chemical' a type of 'Cell Function'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q50",
+    "question": "Is 'Periosteum of right second rib' a type of 'Membranous layer of organ wall'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q44",
+    "question": "Is 'lmi approach' a type of 'mathematics'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q65",
+    "question": "Is 'Hormone' a type of 'Organism'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q14",
+    "question": "Is 'Katassou' a type of 'Metita'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q37",
+    "question": "Is 'Cavity of middle phalanx of middle finger' a type of 'Anatomical space'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q62",
+    "question": "Is 'Lumbar ganglion' a type of 'Posterolateral part of arm'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q17",
+    "question": "Is 'Muscle fasciculus of right inferior longitudinal muscle of tongue' a type of 'Postnatal anatomical structure'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q2",
+    "question": "Is 'Baebiana' a type of 'Ourzan'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q75",
+    "question": "Is 'Enzyme' a type of 'Professional or Occupational Group'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q54",
+    "question": "Is 'Head of second palmar interosseous of left hand' a type of 'Set of right splenius muscles'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q6",
+    "question": "Is 'baum-welch algorithm' a type of 'mathematics'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q11",
+    "question": "Is 'Compact bone of distal epiphysis of middle phalanx of left little finger' a type of 'Compact bone of zone of long bone'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q34",
+    "question": "Is 'asian continental ancestry group' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q47",
+    "question": "Is 'Fascia of flexor pollicis brevis' a type of 'Organ component layer'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q33",
+    "question": "Is 'dynamic bayesian networks' a type of 'computer system'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q18",
+    "question": "Is 'ppm' a type of 'communication systems'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q25",
+    "question": "Is 'Posterior intra-occipital synchondrosis' a type of 'Anatomical junction'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q9",
+    "question": "Is 'Bustan' a type of 'Chibanes'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q37",
+    "question": "Is 'Scingomagus' a type of 'Algorós'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q18",
+    "question": "Is 'San Paolo alla Regola' a type of 'Tell al-Baye'a'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q75",
+    "question": "Is 'Stroma of right ovary' a type of 'Articular cartilage of proximal epiphysis of fifth metacarpal bone'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q65",
+    "question": "Is 'adaptive arrays' a type of 'software quality models'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q100",
+    "question": "Is 'Biomedical Occupation or Discipline' a type of 'Nucleic Acid, Nucleoside, or Nucleotide'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q81",
+    "question": "Is 'Cutaneous branch of medial branch of posterior ramus of third cervical nerve' a type of 'Periosteum of superior articular process of fifth thoracic vertebra'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q49",
+    "question": "Is 'Nucleic Acid, Nucleoside, or Nucleotide' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q16",
+    "question": "Is 'Element, Ion, or Isotope' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q93",
+    "question": "Is 'tcp traffic' a type of 'local decisions'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q97",
+    "question": "Is 'Physical Object' a type of 'Molecular Biology Research Technique'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q32",
+    "question": "Is 'Left cardiac lymphatic trunk' a type of 'Organ component'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q88",
+    "question": "Is 'Lysine' a type of 'Lumen of intermediate interlobular bronchus'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q5",
+    "question": "Is 'spindle speed' a type of 'cad'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q63",
+    "question": "Is 'Muscular branch of left internal pudendal artery' a type of 'A4 pulley of left index finger'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q39",
+    "question": "Is 'Right labium majus' a type of 'Subdivision of trunk'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q46",
+    "question": "Is 'Sost' a type of 'Aphaniou'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q45",
+    "question": "Is 'Fish' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q57",
+    "question": "Is 'Ostium of left apicoposterior pulmonary artery' a type of 'C7 root of left thoracodorsal nerve'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q40",
+    "question": "Is 'Tissue' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q86",
+    "question": "Is 'Tenth thoracic vertebral arch' a type of 'Nerve to femoral artery'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q66",
+    "question": "Is 'Trunk of branch of recurrent laryngeal nerve to posterior crico-arytenoid' a type of 'Wall of right subclavian artery'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q37",
+    "question": "Is 'Organism Function' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q74",
+    "question": "Is 'Acquired Abnormality' a type of 'Health Care Activity'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q1",
+    "question": "Is 'spreading codes' a type of 'signal to noise ratio'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q70",
+    "question": "Is 'Cell Component' a type of 'Biologically Active Substance'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q50",
+    "question": "Is 'Cell or Molecular Dysfunction' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q25",
+    "question": "Is 'Bird' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q100",
+    "question": "Is 'fortran codes' a type of 'localization problems'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q31",
+    "question": "Is 'Fish' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q22",
+    "question": "Is 'Mistelbach an der Zaya' a type of 'Robigo?, T.'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q53",
+    "question": "Is 'iar' a type of 'fluid simulation'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q48",
+    "question": "Is 'Organism Function' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q99",
+    "question": "Is 'Fourth metatarsal facet of right cuboid bone' a type of 'Branch of suprascapular nerve to glenohumeral joint'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q55",
+    "question": "Is 'Lobar branch of right anterior superior segmental renal artery' a type of 'Trunk of superficial branch of left medial circumflex femoral artery'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q51",
+    "question": "Is 'Molecular Function' a type of 'Medical Device'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q7",
+    "question": "Is 'permanent faults' a type of 'computer systems'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q72",
+    "question": "Is 'Communicating branch between medial common plantar digital nerve with third common plantar digital nerve' a type of 'Zone of reticular formation'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q4",
+    "question": "Is 'Cell or Molecular Dysfunction' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q48",
+    "question": "Is 'Boukephala? Pr.' a type of 'Barburgh Mill Roman fortlet'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q39",
+    "question": "Is 'Myskhako 2' a type of 'Hochdorf'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q6",
+    "question": "Is 'Eleutherna Bridge' a type of 'Ashamba 3'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q77",
+    "question": "Is 'Fascia of posterior cervical intertransversarius' a type of 'Accessory subsuperior ramus of right posterior basal segmental bronchus'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q82",
+    "question": "Is 'terminal sliding mode control' a type of 'phase change memory'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q7",
+    "question": "Is 'Subdivision of fetal skeletal system' a type of 'Anatomical structure'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q33",
+    "question": "Is 'Mental Process' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q46",
+    "question": "Is 'Laboratory Procedure' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q70",
+    "question": "Is 'Distal zone of vastus medialis' a type of 'Anterior margin of right first costal cartilage'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q52",
+    "question": "Is 'analog differential analyzers' a type of 'speaker adaptation'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q100",
+    "question": "Is 'Right lesser wing proper of sphenoid' a type of 'Skin of lower outer quadrant of left breast'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q34",
+    "question": "Is 'Reptile' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q59",
+    "question": "Is 'computer assisted language learning' a type of 'medical images'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q98",
+    "question": "Is 'Palmar carpal branch of right radial artery' a type of 'Skin of anterolateral part of knee'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q77",
+    "question": "Is 'Behavior' a type of 'Mammal'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q98",
+    "question": "Is 'Research Activity' a type of 'Social Behavior'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q79",
+    "question": "Is 'Vitamin' a type of 'Anatomical Structure'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q17",
+    "question": "Is 'Orniaci' a type of 'Epiakon (Epiacum)'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q63",
+    "question": "Is 'tracking radar' a type of '3d video coding'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q44",
+    "question": "Is 'Basa' a type of 'Taurinou'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q12",
+    "question": "Is 'Anterior cranial fossa' a type of 'Immaterial anatomical entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q54",
+    "question": "Is 'orthogonal frequency-division multiplexing %28ofdm%29' a type of 'electric power supplies to apparatus'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q52",
+    "question": "Is 'Periosteum of diaphysis proper of first metatarsal bone' a type of 'Ampulla of right deferent duct'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q45",
+    "question": "Is 'Compact bone of diaphysis of left fibula' a type of 'Tissue component of lamellar bone'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q39",
+    "question": "Is 'Indicator, Reagent, or Diagnostic Aid' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q42",
+    "question": "Is 'Border of thyroid gland' a type of 'Immaterial anatomical entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q9",
+    "question": "Is 'CD100+ lymphocyte' a type of 'Nucleated cell'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q18",
+    "question": "Is 'Pharmacologic Substance' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q39",
+    "question": "Is 'registration accuracy' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q48",
+    "question": "Is 'non-linear optical properties' a type of 'computer hardware'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q13",
+    "question": "Is 'Gough's Cave' a type of 'Veneris Iugum'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q85",
+    "question": "Is 'Occupational Activity' a type of 'Health Care Activity'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q44",
+    "question": "Is 'Compartment of middle abdomen' a type of 'Postnatal anatomical structure'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q32",
+    "question": "Is 'ordinary differential equations' a type of 'mathematics'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q2",
+    "question": "Is 'Amino Acid, Peptide, or Protein' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q72",
+    "question": "Is 'least squares approximations' a type of 'image retrieval systems'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q52",
+    "question": "Is 'Occupation or Discipline' a type of 'Element, Ion, or Isotope'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q32",
+    "question": "Is 'Body System' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q24",
+    "question": "Is 'small sample size problems' a type of 'computer imaging and vision'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q91",
+    "question": "Is 'modeling languages' a type of 'localization algorithm'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q70",
+    "question": "Is 'spectral efficiencies' a type of 'drm system'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q23",
+    "question": "Is 'Temple of Jupiter?, Via Appia' a type of 'Fanum Pithiviers-le-Vieil'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q5",
+    "question": "Is 'Bamaccor(...)' a type of 'Vittorito'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q3",
+    "question": "Is 'Neuronal component of gray matter of T3 segment' a type of 'Anatomical structure'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q37",
+    "question": "Is 'high resolution image' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q17",
+    "question": "Is 'face recognition performance' a type of 'computer imaging and vision'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q8",
+    "question": "Is 'Tolous' a type of 'Fulfinium/Fertinium'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q45",
+    "question": "Is 'Turonium' a type of 'Oppidum de Sermuz'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q30",
+    "question": "Is 'Neoplastic Process' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q18",
+    "question": "Is 'Synovial membrane of articular capsule of distal interphalangeal joint of ring finger' a type of 'Synovial membrane of articular capsule of synovial joint'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q3",
+    "question": "Is 'antenna reflectors' a type of 'telecommunication systems'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q36",
+    "question": "Is 'Animal' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q76",
+    "question": "Is 'teleconferencing' a type of 'fast fourier transform algorithm'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q69",
+    "question": "Is 'Nerve to right transverse muscle of tongue' a type of 'Muscular branch of median nerve'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q58",
+    "question": "Is 'route discovery' a type of 'reinforcement learning agent'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q21",
+    "question": "Is 'Proximal segment of left tibial collateral ligament' a type of 'Organ segment'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q55",
+    "question": "Is 'Qualitative Concept' a type of 'Cell'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q73",
+    "question": "Is 'systolic array' a type of 'joint source-channel coding'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q80",
+    "question": "Is 'Ophthalmic-hypophysial segment of trunk of cerebral part of internal carotid artery' a type of 'Segment of cortex of gyrus of limbic lobe'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q12",
+    "question": "Is 'Necropolis of Pantalica' a type of 'Lissos (river)'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q59",
+    "question": "Is 'Pharmacologic Substance' a type of 'Animal'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q95",
+    "question": "Is 'Distal tendon of right tibialis anterior' a type of 'Muscle layer of subdivision of duodenum'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q34",
+    "question": "Is 'La Salata necropolis' a type of 'Pyrgouthi'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q43",
+    "question": "Is 'Indicator, Reagent, or Diagnostic Aid' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q28",
+    "question": "Is 'Tasopeion' a type of 'Chervony Mayak'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q49",
+    "question": "Is 'Tendon of right first interspinalis lumborum' a type of 'Organ component'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q22",
+    "question": "Is 'model based testing' a type of 'microprocessor chips'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q64",
+    "question": "Is 'Amphibian' a type of 'Cell or Molecular Dysfunction'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q35",
+    "question": "Is 'Trunk of acetabular branch of medial circumflex femoral artery' a type of 'Arterial trunk'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q98",
+    "question": "Is 'transmission power control' a type of 'music genre classification'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q28",
+    "question": "Is 'low jitters' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q67",
+    "question": "Is 'Proatlantal intersegmental artery' a type of 'First dorsal tarsometatarsal ligament'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q36",
+    "question": "Is 'Pyron Pedion' a type of 'Vanesia'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q71",
+    "question": "Is 'Social Behavior' a type of 'Self-help or Relief Organization'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q84",
+    "question": "Is 'Vitamin' a type of 'Hazardous or Poisonous Substance'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q9",
+    "question": "Is 'error rate %28er%29' a type of 'database'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q76",
+    "question": "Is 'Anterior surface of left scalenus medius' a type of 'Left neurocentral junction of second thoracic vertebra'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q2",
+    "question": "Is 'speech transmission' a type of 'computer system'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q24",
+    "question": "Is 'Left subcostal vein' a type of 'Segment of hollow tree organ'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q25",
+    "question": "Is 'Qaqun' a type of 'Kirra'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q68",
+    "question": "Is 'Inferior subtendinous bursa of biceps femoris' a type of 'Inferior flexure of duodenum'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q84",
+    "question": "Is 'neutral type' a type of 'incompressible flow'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q24",
+    "question": "Is 'Sambracena/Sambrachate' a type of 'Yukarı Anzaf'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q88",
+    "question": "Is 'Pharmacologic Substance' a type of 'Body System'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q60",
+    "question": "Is 'Mammal' a type of 'Cell'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q76",
+    "question": "Is 'Classification' a type of 'Mental Process'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q55",
+    "question": "Is 'modes of operation' a type of 'concurrent transactions'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q69",
+    "question": "Is 'Entity' a type of 'Organism Attribute'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q15",
+    "question": "Is 'rfid' a type of 'computer imaging and vision'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q28",
+    "question": "Is 'Mammal' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q2",
+    "question": "Is 'Vasculature of body proper' a type of 'Organ part cluster'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q38",
+    "question": "Is 'architecture knowledge exploiting' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q79",
+    "question": "Is 'distributed systems' a type of 'closed-loop control'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q27",
+    "question": "Is 'Reptile' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q97",
+    "question": "Is 'particle beam injection' a type of 'computer aided design'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q56",
+    "question": "Is 'Chemical' a type of 'Body Space or Junction'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q19",
+    "question": "Is 'Fuweileh el-Gharbiyeh' a type of 'Piazza d'Armi'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q41",
+    "question": "Is 'Cartilage of body of fifth cervical vertebra' a type of 'Cartilage tissue'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q3",
+    "question": "Is 'Assur Archive 37' a type of 'Driel-Baarskamp'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q50",
+    "question": "Is '‘Danova’' a type of 'Lake'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q33",
+    "question": "Is 'Root canal of left lower lateral incisor tooth' a type of 'Anatomical cavity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q26",
+    "question": "Is 'media access control %28mac%29' a type of 'computer systems'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q82",
+    "question": "Is 'Chemical Viewed Functionally' a type of 'Cell Component'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q15",
+    "question": "Is 'Cell or Molecular Dysfunction' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q90",
+    "question": "Is 'Food' a type of 'Chemical Viewed Functionally'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q96",
+    "question": "Is 'electromechanical systems' a type of 'input models'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q24",
+    "question": "Is 'Biomedical or Dental Material' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q96",
+    "question": "Is 'Surface of distal epiphysis of right femur' a type of 'Synovial membrane of articular capsule of C4-C5 vertebral arch joint'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q89",
+    "question": "Is 'cell phones' a type of 'sea state'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q4",
+    "question": "Is 'Preganglionic segment of posterior root of seventh thoracic spinal nerve' a type of 'Segment of neural tree organ'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q14",
+    "question": "Is 'External medial border of right nasal bone' a type of 'Bona fide anatomical line'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q6",
+    "question": "Is 'Chemical Viewed Functionally' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q43",
+    "question": "Is 'Articular cartilage of tubercle of left sixth rib' a type of 'Hyaline cartilage'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q11",
+    "question": "Is 'Neoplastic Process' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q81",
+    "question": "Is 'open stubs' a type of 'evolutionary search'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q40",
+    "question": "Is 'Epimysium of right flexor hallucis brevis' a type of 'Organ component layer'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q5",
+    "question": "Is 'Vertebrate' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q99",
+    "question": "Is 'uniform linear array' a type of 'biped robots'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q47",
+    "question": "Is '40 gb%2Fs' a type of 'packet networks'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q15",
+    "question": "Is 'Torre d'Ischia, Vejano' a type of 'Therma'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q26",
+    "question": "Is 'Izlaz' a type of 'Forum granary'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q26",
+    "question": "Is 'Gene or Genome' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q89",
+    "question": "Is 'Lymph node group of head' a type of 'Periosteum of articular process of sixth thoracic vertebra'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q41",
+    "question": "Is 'timing jitter' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q36",
+    "question": "Is 'wavelet analysis' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q28",
+    "question": "Is 'Medial antebrachial cutaneous nerve component of trunk of anterior ramus of left first thoracic nerve' a type of 'Segment of neural tree organ'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q87",
+    "question": "Is 'Parenchyma of posterior lobe of prostate' a type of 'Epimysium of second plantar interosseous of right foot'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q20",
+    "question": "Is 'Solymnia' a type of 'Brachaud Roman Villa'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q92",
+    "question": "Is 'markov random field %28mrf%29' a type of 'nfc'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q95",
+    "question": "Is 'phase detectors' a type of 'stochastic simulations'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q20",
+    "question": "Is 'rule based reasoning' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q8",
+    "question": "Is 'secret sharing scheme' a type of 'cryptology'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q13",
+    "question": "Is 'ica algorithms' a type of 'computational linguistics'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q92",
+    "question": "Is 'Regulation or Law' a type of 'Antibiotic'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q82",
+    "question": "Is 'Lateral pectoral nerve' a type of 'Unnamed branch of right seventh posterior intercostal artery'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q35",
+    "question": "Is 'Vari' a type of 'Anactorium'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q85",
+    "question": "Is 'Left tibia' a type of 'Area of insertion of adductor brevis'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q22",
+    "question": "Is 'Genetic Function' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q38",
+    "question": "Is 'Groove for branch of middle meningeal artery' a type of 'Anatomical surface'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q1",
+    "question": "Is 'Barnsley Park' a type of 'Aloustou Phrourion'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q93",
+    "question": "Is 'Laboratory Procedure' a type of 'Nucleic Acid, Nucleoside, or Nucleotide'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q27",
+    "question": "Is 'Upper inner quadrant of female breast' a type of 'Region of anterior chest'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q58",
+    "question": "Is 'Arcuate branch of posterior segmental renal artery' a type of 'Anterior wall of pyloric antrum'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q87",
+    "question": "Is 'Body Location or Region' a type of 'Inorganic Chemical'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q10",
+    "question": "Is 'Plant' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q25",
+    "question": "Is 'fuzzy partition' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q29",
+    "question": "Is 'Vasculature of distal phalanx of right third toe' a type of 'Vasculature of long bone'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q43",
+    "question": "Is 'mammograms' a type of 'computer imaging and vision'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q41",
+    "question": "Is 'Monsanto' a type of 'Pedonia'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q61",
+    "question": "Is 'Third part of occipital artery' a type of 'Gluteal surface of ilium'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q20",
+    "question": "Is 'Immunologic Factor' a type of 'Substance'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q14",
+    "question": "Is 'tamper detection' a type of 'computer security'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q68",
+    "question": "Is 'Cell Function' a type of 'Language'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q42",
+    "question": "Is 'smart phone' a type of 'computer communication networks'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q78",
+    "question": "Is 'integrated circuit testing' a type of 'total transmit power'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q62",
+    "question": "Is 'Event' a type of 'Physical Object'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q5",
+    "question": "Is 'Surface of left supraspinous fossa' a type of 'Bona fide anatomical surface'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q49",
+    "question": "Is 'chinese word segmentation' a type of 'machine learning methods'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q90",
+    "question": "Is 'cortical sensory aphasia' a type of 'semantic gap'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q10",
+    "question": "Is 'grating' a type of 'machine learnings'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q71",
+    "question": "Is 'h.264%2Favc' a type of 'control packets'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q53",
+    "question": "Is 'Purkinje cell layer of cortex of right hemisphere of cerebellum' a type of 'Superficial part of pes anserinus'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q12",
+    "question": "Is 'Pharmacologic Substance' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q72",
+    "question": "Is 'Genetic Function' a type of 'Food'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q22",
+    "question": "Is 'Superior ligament of right incus' a type of 'Ligament organ'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q65",
+    "question": "Is 'Posterior polar zone of right lens' a type of 'Peritoneal mesentery'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q15",
+    "question": "Is 'Primitive cardiac chamber' a type of 'Physical anatomical entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q69",
+    "question": "Is 'unified modeling language' a type of 'interference channel'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q8",
+    "question": "Is 'Surface of right parietal lobe' a type of 'Surface of organ region'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q81",
+    "question": "Is 'Mental or Behavioral Dysfunction' a type of 'Hormone'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q17",
+    "question": "Is 'Organism Function' a type of 'Event'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q58",
+    "question": "Is 'Drug Delivery Device' a type of 'Eukaryote'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q43",
+    "question": "Is 'Donatım' a type of 'Belikov'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q73",
+    "question": "Is 'Chemical' a type of 'Receptor'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q88",
+    "question": "Is 'information and communication technologies %28ict%29' a type of 'wideband signals'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q9",
+    "question": "Is 'Drug Delivery Device' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q23",
+    "question": "Is 'Vasculature of fourth thoracic vertebra' a type of 'Vasculature'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q41",
+    "question": "Is 'Animal' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q36",
+    "question": "Is 'Left costal facet of body of fourth thoracic vertebra' a type of 'Subdivision of surface of body of vertebra'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q30",
+    "question": "Is 'ieee 802.16' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q7",
+    "question": "Is 'Circus Maximus Mithraeum' a type of 'Auridai'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q64",
+    "question": "Is 'pareto optimal' a type of 'unified modelling language'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q13",
+    "question": "Is 'Compact bone of diaphysis proper of phalanx of left little finger' a type of 'Compact bone of zone of long bone'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q31",
+    "question": "Is 'photoacoustic imaging' a type of 'matrix algebra'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q31",
+    "question": "Is 'Illyrikon' a type of 'Chersonesos'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q11",
+    "question": "Is 'periodic arrays' a type of 'computer networks'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q38",
+    "question": "Is 'Karivalamvandanallur' a type of 'Succorum Angustiae'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q35",
+    "question": "Is 'broadcasting' a type of 'computer system'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q91",
+    "question": "Is 'Organic Chemical' a type of 'Molecular Biology Research Technique'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q4",
+    "question": "Is 'Ambracia' a type of 'Cappadocia Gate at Kerkenes'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q94",
+    "question": "Is 'Nucleotide Sequence' a type of 'Gene or Genome'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q74",
+    "question": "Is 'karyotyping' a type of 'adaptive modulation'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q67",
+    "question": "Is 'sparql' a type of 'unconstrained optimization problems'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q27",
+    "question": "Is 'Birdhope Camps' a type of 'Pyrrou Charax'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q46",
+    "question": "Is 'wavelength assignment' a type of 'computer systems'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q12",
+    "question": "Is 'semiconductor optical amplifier' a type of 'sensors'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q21",
+    "question": "Is 'Reptile' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q21",
+    "question": "Is 'Bel Poggio' a type of 'Lancienses Transcudani'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q6",
+    "question": "Is 'C6 ventral column nucleus of left superior subscapular nerve' a type of 'Segment of gray matter of spinal cord'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q29",
+    "question": "Is 'Vîrciorova' a type of 'Alpes (mountains)'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q46",
+    "question": "Is 'Bony part of seventh thoracic vertebral arch' a type of 'Cardinal organ part'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q42",
+    "question": "Is 'Pharmacologic Substance' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q67",
+    "question": "Is 'Biologically Active Substance' a type of 'Medical Device'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q53",
+    "question": "Is 'Quantitative Concept' a type of 'Disease or Syndrome'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q68",
+    "question": "Is 'underactuated systems' a type of 'controller parameter'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q86",
+    "question": "Is 'data integration system' a type of 'software protection'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q64",
+    "question": "Is 'Stratum lucidum of epidermis' a type of 'Cortex of right frontal lobe'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q48",
+    "question": "Is 'CD3+CD16+ lymphocyte' a type of 'Somatic cell'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q95",
+    "question": "Is 'Amphibian' a type of 'Element, Ion, or Isotope'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q51",
+    "question": "Is 'pre-coding' a type of 'relational data models'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q33",
+    "question": "Is 'er Rmel' a type of 'Metallum Vipascense'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q73",
+    "question": "Is 'Interosseous metacarpal space of right hand' a type of 'Inferior surface of left clavicle'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q44",
+    "question": "Is 'Vitamin' a type of 'Physical Object'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q62",
+    "question": "Is 'optical scanners' a type of 'pentacenes'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q40",
+    "question": "Is 'exact solution' a type of 'mathematics'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q78",
+    "question": "Is 'C5 segment of left dorsal funiculus of spinal cord' a type of 'Distal tendon of alar part of right nasalis'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q51",
+    "question": "Is 'Visceral pelvic peritoneum' a type of 'Lateral part of plantar digital artery of right fifth toe'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q54",
+    "question": "Is 'Organ or Tissue Function' a type of 'Cell'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q11",
+    "question": "Is 'Hadrianopolis' a type of 'Artamis? (river)'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q77",
+    "question": "Is 'structural frames' a type of 'wavelength assignment'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q8",
+    "question": "Is 'Reptile' a type of 'Organism'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q61",
+    "question": "Is 'semantic gap' a type of 'point-spread function'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q80",
+    "question": "Is 'incompressible fluid' a type of 'non-binary ldpc codes'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q89",
+    "question": "Is 'Cell Component' a type of 'Cell Function'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q26",
+    "question": "Is 'Periosteum of right incus' a type of 'Membranous layer of organ wall'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q20",
+    "question": "Is 'Right superficial anterior lens cortex' a type of 'Portion of tissue'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q94",
+    "question": "Is 'component-based software development' a type of 'wearable computers'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q10",
+    "question": "Is 'Phoenice (region)' a type of 'Arianzos'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q4",
+    "question": "Is 'reference architecture' a type of 'computer science'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q14",
+    "question": "Is 'Acquired Abnormality' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q13",
+    "question": "Is 'Tissue' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q30",
+    "question": "Is 'Left perineal artery' a type of 'Systemic artery'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q23",
+    "question": "Is 'border gateway protocol %28bgp%29' a type of 'computer system'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q56",
+    "question": "Is 'digital image watermarking' a type of 'queuing systems'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q97",
+    "question": "Is 'Integument of right pectoral girdle' a type of 'Bony part of proximal phalanx of right ring finger'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q47",
+    "question": "Is 'Nucleic Acid, Nucleoside, or Nucleotide' a type of 'Entity'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q90",
+    "question": "Is 'First left anterior branch of anterior interventricular branch of left coronary artery' a type of 'Posterior branch of axillary nerve'?",
+    "answer": "No"
+  },
+  {
+    "id": "rxnorm_q96",
+    "question": "Is 'Organism Function' a type of 'Bird'?",
+    "answer": "No"
+  },
+  {
+    "id": "cso_q16",
+    "question": "Is 'anomaly detection methods' a type of 'computer security'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q50",
+    "question": "Is 'acoustic surface wave filters' a type of 'signal processing'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "rxnorm_q29",
+    "question": "Is 'Cell or Molecular Dysfunction' a type of 'Phenomenon or Process'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "fma_q10",
+    "question": "Is 'Axillary nerve branch of posterior division of anterior ramus of left sixth cervical nerve' a type of 'Branch of spinal nerve'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "pleiades_q47",
+    "question": "Is 'Agudo' a type of 'el Qasr'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q16",
+    "question": "Is 'Tomb of Lucius Publicius Syneros, Aebia Fausta, Lucius Aebius Aristo and Aebia Hilara' a type of 'Midicca?'?",
+    "answer": "No"
+  },
+  {
+    "id": "pleiades_q30",
+    "question": "Is 'Casale Vignale necropolis' a type of 'Montegiordano'?",
+    "answer": "No"
+  },
+  {
+    "id": "fma_q16",
+    "question": "Is 'Segment of inferior olivary complex' a type of 'Organ region'?",
+    "answer": "Yes"
+  },
+  {
+    "id": "cso_q87",
+    "question": "Is 'image registration algorithm' a type of 'tactics for modifiability'?",
+    "answer": "No"
+  }
+]

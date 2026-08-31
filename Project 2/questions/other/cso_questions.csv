@@ -1,0 +1,101 @@
+id,question,answer
+cso_q1,Is 'motion planning' contributes To 'bilateral control'?,Yes
+cso_q2,Is 'physical layer' label 'physical layer@en .'?,Yes
+cso_q3,Is 'statistical analysis' contributes To 'spatial correlation'?,Yes
+cso_q4,Is 'speech transmission' type 'Topic'?,Yes
+cso_q5,Is 'human computer interaction' contributes To 'interactive digital tv'?,Yes
+cso_q6,Is 'markov decision process' contributes To 'probabilistic systems'?,Yes
+cso_q7,Is 'optimal systems' contributes To 'candidate solution'?,Yes
+cso_q8,Is 'teaching%2Flearning strategies' preferential Equivalent 'teaching%2Flearning strategies'?,Yes
+cso_q9,Is 'public key certificates' type 'Topic'?,Yes
+cso_q10,Is 'computer-aided design' contributes To 'three dimensional computer graphics'?,Yes
+cso_q11,Is 'monolithic microwave integrated circuits' type 'Topic'?,Yes
+cso_q12,Is 'multiple attribute decision making' related Equivalent 'multiple attribute decision making %28madm%29'?,Yes
+cso_q13,Is 'segmentation algorithms' contributes To 'object segmentation'?,Yes
+cso_q14,Is 'stable model semantics' related Equivalent 'stable model'?,Yes
+cso_q15,Is 'embedded technology' type 'Topic'?,Yes
+cso_q16,Is 'photonic integrations' label 'photonic integrations@en .'?,Yes
+cso_q17,Is 'preconditioned conjugate gradient method' label 'preconditioned conjugate gradient method@en .'?,Yes
+cso_q18,Is 'sensors' contributes To 'ultra-wideband'?,Yes
+cso_q19,Is 'mobile telecommunication systems' contributes To 'quality of service routing'?,Yes
+cso_q20,Is 'fiber bragg gratings' same As 'Q1397391'?,Yes
+cso_q21,Is 'known environments' label 'known environments@en .'?,Yes
+cso_q22,Is 'wireless sensor network %28wsns%29' contributes To 'ad-hoc networks'?,Yes
+cso_q23,Is 'multicast protocols' related Equivalent 'multicast transmissions'?,Yes
+cso_q24,Is 'ontology building' label 'ontology building@en .'?,Yes
+cso_q25,Is 'electronic commerce' contributes To 'marketing strategy'?,Yes
+cso_q26,Is 'image edge detection' same As 'Q1513153'?,Yes
+cso_q27,Is 'adaptive neuro-fuzzy inference system' contributes To 'anfis'?,Yes
+cso_q28,Is 'fiber laser' same As 'm.0c8nsd'?,Yes
+cso_q29,Is 'rbac' related Equivalent 'role-based access control %28rbac%29'?,Yes
+cso_q30,Is 'graphic methods' contributes To 'minimum degree'?,Yes
+cso_q31,Is 'expression recognition' same As 'm.01506s'?,Yes
+cso_q32,Is 'image compression' contributes To 'rate control'?,Yes
+cso_q33,Is 'wireless telecommunication systems' contributes To 'frequency selective fading'?,Yes
+cso_q34,Is 'atomic clocks' type 'Topic'?,Yes
+cso_q35,Is 'analog filters' type 'Topic'?,Yes
+cso_q36,Is 'information system' contributes To 'ajax'?,Yes
+cso_q37,Is 'taxonomy' contributes To 'type strain'?,Yes
+cso_q38,Is 'bit error rate' contributes To 'impulse radios'?,Yes
+cso_q39,Is 'transmittance' related Link '115816120'?,Yes
+cso_q40,Is 'wimax' same As 'm.02dl1f'?,Yes
+cso_q41,Is 'mobile applications' type 'Topic'?,Yes
+cso_q42,Is 'secret sharing schemes' related Equivalent 'secret sharing scheme'?,Yes
+cso_q43,Is 'wireless ad hoc network' type 'Topic'?,Yes
+cso_q44,Is 'three dimensional imaging' contributes To 'micro-ct'?,Yes
+cso_q45,Is 'single-carrier' related Equivalent 'single carrier'?,Yes
+cso_q46,Is 'semantics' contributes To 'world wide web'?,Yes
+cso_q47,Is 'mobile ad hoc networks %28manets%29' related Link 'Mobile ad hoc network'?,Yes
+cso_q48,Is 'chaotic oscillators' type 'Topic'?,Yes
+cso_q49,Is 'cosmic microwave backgrounds' type 'Topic'?,Yes
+cso_q50,Is 'wi-fi' contributes To 'indoor positioning systems'?,Yes
+cso_q51,Is 'video surveillance' same As 'overlay multicast@en .'?,No
+cso_q52,Is 'stego image' type 'grammatical inference'?,No
+cso_q53,Is 'query images' contributes To '121835503'?,No
+cso_q54,Is 'multiple classifier system' preferential Equivalent 'Type inference'?,No
+cso_q55,Is 'wireless nodes' same As 'forward security@en .'?,No
+cso_q56,Is 'internship%2C nonmedical' label 'precoding matrix@en .'?,No
+cso_q57,Is 'verifiable secret sharing' related Link 'pareto@en .'?,No
+cso_q58,Is 'automatic teller machines' same As '159437735'?,No
+cso_q59,Is 'diffie-hellman assumption' label 'Multiprotocol Label Switching'?,No
+cso_q60,Is 'discrete-time systems' type 'architecture technical debt'?,No
+cso_q61,Is 'tate pairing' related Link '2781234732'?,No
+cso_q62,Is 'synchronization scheme' type 'mac address@en .'?,No
+cso_q63,Is 'fixed wings' same As 'voice activity detection'?,No
+cso_q64,Is 'head related transfer function' label 'path planners@en .'?,No
+cso_q65,Is 'evolutionary strategies' label '50382708'?,No
+cso_q66,Is 'end-to-end delay' preferential Equivalent 'm.0d2j47'?,No
+cso_q67,Is 'qos routing algorithms' type '3d user interfaces@en .'?,No
+cso_q68,Is 'support vector machine %28svm%29' preferential Equivalent 'data communication equipment'?,No
+cso_q69,Is 'data flow graphs' type 'extracting information'?,No
+cso_q70,Is 'cmp' type 'Q288682'?,No
+cso_q71,Is 'smart sensors' preferential Equivalent 'wimax@en .'?,No
+cso_q72,Is 'key establishment' related Equivalent 'automatic text summarization@en .'?,No
+cso_q73,Is 'secondary user' label 'biometric techniques'?,No
+cso_q74,Is 'random graph models' type 'chen system@en .'?,No
+cso_q75,Is 'microsatellite repeats' related Equivalent '2777887233'?,No
+cso_q76,Is 'message authentication' label 'm.017cmr'?,No
+cso_q77,Is 'parallel robots' type 'nuclear plant@en .'?,No
+cso_q78,Is 'real-time tasks' type 'evolutionary strategy'?,No
+cso_q79,Is 'trajectory planning' label 'bayesian network structure'?,No
+cso_q80,Is 'physical layer security' type 'Q46384'?,No
+cso_q81,Is 'continuous time systems' related Equivalent '38104776'?,No
+cso_q82,Is 'wireless mesh network' type 'rna 28s'?,No
+cso_q83,Is 'radial basis' label 'contention window size'?,No
+cso_q84,Is 'service components' type 'real image sequences'?,No
+cso_q85,Is 'saw' preferential Equivalent 'intelligent tutoring system@en .'?,No
+cso_q86,Is 'skin detection' type 'distributed channels'?,No
+cso_q87,Is 'radio links' label '2777551494'?,No
+cso_q88,Is 'can bus' type 'computational grid'?,No
+cso_q89,Is 'global navigation satellite systems' related Equivalent 'low density parity check codes'?,No
+cso_q90,Is 'water distribution networks' label 'Integrated Services Digital Network'?,No
+cso_q91,Is 'nonlinear optical properties' type 'grid computing systems@en .'?,No
+cso_q92,Is 'semantic relationships' preferential Equivalent 'stereo cameras@en .'?,No
+cso_q93,Is 'gui' related Equivalent 'tutoring system@en .'?,No
+cso_q94,Is 'model-checking' preferential Equivalent '2778642129'?,No
+cso_q95,Is 'distributed antenna systems' label 'formal languages and automata theory@en .'?,No
+cso_q96,Is 'memory access patterns' label 'full rate@en .'?,No
+cso_q97,Is 'object-oriented programming' contributes To 'Q475000'?,No
+cso_q98,Is 'logic synthesis' same As 'photon mapping@en .'?,No
+cso_q99,Is 'range queries' preferential Equivalent 'k-nn classifier@en .'?,No
+cso_q100,Is 'smart environments' related Equivalent 'stock returns@en .'?,No

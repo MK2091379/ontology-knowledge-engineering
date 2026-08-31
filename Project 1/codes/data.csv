@@ -1,0 +1,113 @@
+"_id","_labels","name","_start","_end","_type"
+"40",":Instance","overal value",,,
+"41",":Instance","oil demand",,,
+"96",":Concept","supply",,,
+"97",":Concept","political event",,,
+"98",":Concept","US election",,,
+"99",":Concept","geopolitical event",,,
+"100",":Concept","war",,,
+"101",":Concept","demand",,,
+"102",":Concept","market",,,
+"103",":Concept","currency",,,
+"104",":Concept","oil producer",,,
+"105",":Concept","Middle East countires",,,
+"106",":Concept","US market",,,
+"107",":Concept","international sanction",,,
+"108",":Concept","economy growth",,,
+"109",":Concept","country",,,
+"110",":Instance","oil price",,,
+"111",":Instance","Russia_Ukraine war",,,
+"112",":Instance","7th october event",,,
+"113",":Instance","oil production",,,
+"114",":Instance","oil supply",,,
+"115",":Instance","Middle East conflicts",,,
+"116",":Instance","syria revoloution",,,
+"117",":Instance","Bab al-Mandab Strait insecurity",,,
+"118",":Instance","republican victory",,,
+"119",":Instance","EUR",,,
+"120",":Instance","USD",,,
+"121",":Instance","Russia",,,
+"122",":Instance","USA",,,
+"123",":Instance","2024 Us Election",,,
+"124",":Instance","gold price",,,
+"125",":Instance","inflation",,,
+"126",":Instance","currency value",,,
+"127",":Instance","forex market",,,
+"128",":Instance","stock market",,,
+"129",":Instance","Tension",,,
+"130",":Instance","russia sanctions ",,,
+"131",":Instance","Europe",,,
+"132",":Instance","risk level ",,,
+"133",":Instance","Iran sanctions",,,
+"134",":Instance","Iran",,,
+"135",":Instance","global activity",,,
+"136",":Instance","china rapid growth",,,
+"137",":Instance","India rapid Growth",,,
+"138",":Instance","China",,,
+"139",":Instance","Taiwan",,,
+"140",":Instance","Asia north esat tensin",,,
+"141",":Instance","north america tensions",,,
+,,,"40","132","negativelyCorrelatedWith"
+,,,"41","101","is a"
+,,,"98","97","is a"
+,,,"100","99","is a"
+,,,"100","113","decrease"
+,,,"101","110","positivelyCorrelatedWith"
+,,,"102","40","hasAttribute"
+,,,"103","126","hasAttribute"
+,,,"104","113","control"
+,,,"105","104","is a"
+,,,"105","112","involvedIn"
+,,,"106","102","is a"
+,,,"107","99","is a"
+,,,"107","132","increase"
+,,,"108","135","increase"
+,,,"110","125","positivelyCorrelatedWith"
+,,,"111","100","is a"
+,,,"111","119","decreaseValueOf"
+,,,"112","100","is a"
+,,,"113","114","determine"
+,,,"114","96","is a"
+,,,"114","110","negativelyCorrelatedWith"
+,,,"115","112","caused by"
+,,,"116","112","caused by"
+,,,"117","112","caused by"
+,,,"117","120","decreaseValueOf"
+,,,"118","97","is a"
+,,,"118","120","increaseValueOf"
+,,,"119","103","is a"
+,,,"120","103","is a"
+,,,"120","106","positivelyCorrelatedWith"
+,,,"121","104","is a"
+,,,"121","109","is a"
+,,,"121","111","involvedIn"
+,,,"121","130","isCountrySanctionedIn"
+,,,"122","104","is a"
+,,,"122","109","is a"
+,,,"123","98","is a"
+,,,"123","106","hasNegativeEffectOn"
+,,,"125","124","positivelyCorrelatedWith"
+,,,"126","125","negativelyCorrelatedWith"
+,,,"127","106","is a"
+,,,"128","106","is a"
+,,,"129","99","is a"
+,,,"130","107","is a"
+,,,"130","122","sanctionedBy"
+,,,"130","131","sanctionedBy"
+,,,"132","124","positivelyCorrelatedWith"
+,,,"133","107","is a"
+,,,"133","122","sanctionedBy"
+,,,"134","105","is a"
+,,,"134","109","is a"
+,,,"134","133","isCountrySanctionedIn"
+,,,"135","41","determine"
+,,,"136","108","is a"
+,,,"137","108","is a"
+,,,"138","109","is a"
+,,,"139","109","is a"
+,,,"140","129","is a"
+,,,"140","138","causedby"
+,,,"140","139","causedBy"
+,,,"140","132","increase"
+,,,"141","129","is a"
+,,,"141","118","causedBy"

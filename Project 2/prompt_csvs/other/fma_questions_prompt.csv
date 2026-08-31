@@ -1,0 +1,101 @@
+id,question
+fma_q1,Is 'Articular branch of left seventh intercostal nerve' preferred name 'Articular branch of left seventh intercostal nerve'?
+fma_q2,Is 'Right apical segmental bronchial vein' Obsolete 'False'?
+fma_q3,Is 'Posterior surface of upper lobe of lung' FMAID '18167'?
+fma_q4,Is 'Left middle thyroid vein' FMAID '50825'?
+fma_q5,Is 'Superior anastomotic vein' http://data.bioontology.org/metadata/prefix IRI 'fma:fma51238'?
+fma_q6,Is 'Column of posterior wall of vagina' non English equivalent 'Columnae rugarum posterior'?
+fma_q7,Is 'Hair follicle' http://data.bioontology.org/metadata/prefix IRI 'fma:fma70660'?
+fma_q8,Is 'Set of perihypoglossal nuclei' http://data.bioontology.org/metadata/prefix IRI 'fma:fma77768'?
+fma_q9,Is 'Posterior cecal artery' Synonyms 'Posterior caecal artery'?
+fma_q10,Is 'Skin of medial part of middle finger' Obsolete 'False'?
+fma_q11,Is 'Trunk of superior gluteal nerve' preferred name 'Trunk of superior gluteal nerve'?
+fma_q12,Is 'Distal zone of lateral pterygoid' Obsolete 'False'?
+fma_q13,Is 'Mesial contact surface layer of third lower molar tooth' http://data.bioontology.org/metadata/prefix IRI 'fma:fma57001'?
+fma_q14,Is 'Deep white layer of right superior colliculus' Obsolete 'False'?
+fma_q15,Is 'Set of subclavian lymphatic vessels' http://data.bioontology.org/metadata/prefix IRI 'fma:fma233428'?
+fma_q16,Is 'Capillary network of muscle organ' FMAID '280939'?
+fma_q17,Is 'Intestinal lymphatic trunk proper' http://data.bioontology.org/metadata/prefix IRI 'fma:fma277225'?
+fma_q18,Is 'Compact bone of proximal epiphysis of right radius' http://data.bioontology.org/metadata/prefix IRI 'fma:fma34285'?
+fma_q19,Is 'Cavity of left upper third molar tooth' preferred name 'Cavity of left upper third molar tooth'?
+fma_q20,Is 'Suprapalpebral sulcus' non English equivalent 'Sulcus suprapalpebralis'?
+fma_q21,Is 'Medial external iliac lymph node group' synonym 'Set of medial external iliac lymph nodes'?
+fma_q22,Is 'Right juxtarestiform body' http://data.bioontology.org/metadata/prefix IRI 'fma:fma73827'?
+fma_q23,Is 'Right dilatator pupillae' preferred name 'Right dilatator pupillae'?
+fma_q24,Is 'Crown pulp of left lateral lower incisor tooth' FMAID '55783'?
+fma_q25,Is 'Proximal phalanx of second toe' Obsolete 'False'?
+fma_q26,Is 'Anterior horizontal limb of lateral sulcus' Synonyms 'Anterior horizontal limb of lateral fissure'?
+fma_q27,Is 'Bone tissue of sesamoid bone of foot' Obsolete 'False'?
+fma_q28,Is 'Trunk of right lateral tarsal artery' Obsolete 'False'?
+fma_q29,Is 'Cystic lymph node' non English equivalent 'Nodus cysticus'?
+fma_q30,Is 'Anterior bronchopulmonary subsegment' http://data.bioontology.org/metadata/prefix IRI 'fma:fma69095'?
+fma_q31,Is 'Set of intestinal glands of small intestine' http://data.bioontology.org/metadata/prefix IRI 'fma:fma71621'?
+fma_q32,Is 'Surface of axilla' synonym 'Axillary surface'?
+fma_q33,Is 'Trunk of branch of left anterior choroidal artery to optic tract' Obsolete 'False'?
+fma_q34,Is 'Cartilage of inferior surface of body of fourth cervical vertebra' Obsolete 'False'?
+fma_q35,"Is 'Pharyngotympanic tube' Definitions 'Old definition: Organ with organ cavity which connects the cavity of the middle ear to the cavity of the pharynx. Examples: There are only two pharyngotympanic tubes, the right and the left pharyngotympanic tubes.'?"
+fma_q36,Is 'Tendon of palmaris longus' Synonyms 'Tendon of palmaris longus muscle'?
+fma_q37,Is 'Posterolateral fissure of cerebellum' synonym 'Prenodular sulcus'?
+fma_q38,Is 'Trunk of petrous part of internal carotid artery' preferred name 'Trunk of petrous part of internal carotid artery'?
+fma_q39,Is 'Lunule of cusp of aortic valve' Synonyms 'Lunule of aortic valvular cusp'?
+fma_q40,Is 'Endosteum of fourth thoracic vertebra' Obsolete 'False'?
+fma_q41,Is 'Wall of posterior ramus of anterior segmental bronchus' http://data.bioontology.org/metadata/prefix IRI 'fma:fma87244'?
+fma_q42,Is 'Fascia of fibularis brevis' synonym 'Fibularis brevis fascia'?
+fma_q43,Is 'Wall of left anterior segmental bronchus' preferred name 'Wall of left anterior segmental bronchus'?
+fma_q44,Is 'Wall of trunk of medial basal segmental artery' http://data.bioontology.org/metadata/prefix IRI 'fma:fma262587'?
+fma_q45,Is 'Anterodorsal nucleus' non English equivalent 'Nucleus anterior dorsalis'?
+fma_q46,Is 'Trabecular bone of right transverse process of third lumbar vertebra' preferred name 'Trabecular bone of right transverse process of third lumbar vertebra'?
+fma_q47,Is 'Maxillary nerve' synonym 'Nervus maxillaris (Vb; V2)'?
+fma_q48,Is 'Axillary nerve component of trunk proper of anterior ramus of right fifth cervical nerve' http://data.bioontology.org/metadata/prefix IRI 'fma:fma307208'?
+fma_q49,Is 'Left inframammary crease' FMAID '55267'?
+fma_q50,Is 'Muscular branch of hypoglossal nerve' http://data.bioontology.org/metadata/prefix IRI 'fma:fma54401'?
+fma_q51,Is 'Bony part of diaphysis of distal phalanx of left index finger' synonym 'fma:fma235431'?
+fma_q52,Is 'Trunk of medial tributary of dorsal tributary of right eighth posterior intercostal vein' FMAID 'Central segment of left sixth thoracic spinal nerve'?
+fma_q53,Is 'Crown pulp of right lateral upper incisor tooth' FMAID 'fma:fma71149'?
+fma_q54,Is 'Lumen of female urethra' Synonyms '10869'?
+fma_q55,Is 'Costal articular facet of left clavicle' http://data.bioontology.org/metadata/prefix IRI 'White communicating ramus of right second lumbar ventral ramus'?
+fma_q56,Is 'Lateral umbilical fold' non English equivalent 'fma:fma76785'?
+fma_q57,Is 'Right mamillothalamic tract' synonym 'fma:fma86417'?
+fma_q58,Is 'Trunk proper of left axillary nerve' http://data.bioontology.org/metadata/prefix IRI '85556'?
+fma_q59,Is 'Superficial branch of left supra-orbital artery' Obsolete 'Rameau lingulaire'?
+fma_q60,Is 'Infra-orbital artery' FMAID 'fma:fma44522'?
+fma_q61,Is 'Left first sacral nerve' synonym 'Lateral part of costal pleura'?
+fma_q62,Is 'Rootlet of left third lumbar nerve' http://data.bioontology.org/metadata/prefix IRI 'Inferior surface of palatine process of maxilla'?
+fma_q63,Is 'Trunk of communicating branch of femoral branch of right genitofemoral nerve with intermediate femoral cutaneous nerve' http://data.bioontology.org/metadata/prefix IRI '44677'?
+fma_q64,Is 'C4 segment of right posterior spinocerebellar tract' preferred name 'Fossette ptérygoïdienne'?
+fma_q65,Is 'C7 posterior nerve rootlet complex of right median nerve' http://data.bioontology.org/metadata/prefix IRI 'Hidden border of nail of toe'?
+fma_q66,Is 'Trunk of meningeal branch of hypoglossal nerve to wall of occipital sinus' http://data.bioontology.org/metadata/prefix IRI 'Periosteum of left stapes'?
+fma_q67,Is 'Postanal space' Obsolete 'Part of axoneme of cilium'?
+fma_q68,Is 'Alveolar bone of right second lower premolar tooth socket' preferred name 'Fibrocollagenous connective tissue of myocardium of papillary muscle of left ventricle'?
+fma_q69,Is 'Lateral branch of posterior ramus of third thoracic nerve' http://data.bioontology.org/metadata/prefix IRI '46213'?
+fma_q70,Is 'Trunk of right inferior alveolar nerve' FMAID 'Posterior scleral aperture'?
+fma_q71,Is 'Trunk of lateral cutaneous tributary of second posterior intercostal vein' http://data.bioontology.org/metadata/prefix IRI 'Muscle of perineum'?
+fma_q72,Is 'Wall of gallbladder' http://data.bioontology.org/metadata/prefix IRI '73544'?
+fma_q73,Is 'Right fifth aortic arch' http://data.bioontology.org/metadata/prefix IRI 'fma:fma225269'?
+fma_q74,Is 'Mesothelium of serosa of transverse colon' Obsolete 'Periondontal ligament of tooth 24'?
+fma_q75,Is 'Interalveolar septum of sockets 6 and 7' http://data.bioontology.org/metadata/prefix IRI '10178'?
+fma_q76,Is 'Muscle body of left platysma' Obsolete 'Epimysium of left rectus capitis posterior major'?
+fma_q77,Is 'Anterior surface of right cornea' Obsolete 'RID6891'?
+fma_q78,Is 'Medial brachial cutaneous nerve component of trunk of anterior division of anterior ramus of right first thoracic nerve' preferred name 'fma:fma241979'?
+fma_q79,Is 'Posterior temporal branch of right middle cerebral artery' http://data.bioontology.org/metadata/prefix IRI 'fma:fma38524'?
+fma_q80,Is 'Periosteum of proximal third of right calcaneus' Obsolete 'Set of maxillary periodontia in right side of upper jaw.'?
+fma_q81,Is 'Neck of pancreas' Synonyms 'Right inferior horn of thyroid cartilage'?
+fma_q82,Is 'Vasculature of uterus' http://data.bioontology.org/metadata/prefix IRI 'Anteromedial part of thigh'?
+fma_q83,Is 'Cavity of left lateral ventricle' http://data.bioontology.org/metadata/prefix IRI 'Skin of posteromedial part of knee'?
+fma_q84,Is 'Muscle body of left depressor supercilii' preferred name 'fma:fma85550'?
+fma_q85,Is 'Surface of fifth rib' FMAID 'fma:fma41391'?
+fma_q86,Is 'Left lateral costodiaphragmatic recess' FMAID 'Eleventh thoracic sympathetic ganglion'?
+fma_q87,Is 'Communicating branch of left internal laryngeal nerve with left recurrent laryngeal nerve' http://data.bioontology.org/metadata/prefix IRI 'fma:fma44331'?
+fma_q88,Is 'Set of ventral rami of cervical nerve' http://data.bioontology.org/metadata/prefix IRI 'fma:fma297536'?
+fma_q89,Is 'Region of broad ligament' Obsolete '320220'?
+fma_q90,Is 'Posterior root of second sacral nerve' preferred name 'Bony part of posterrior part of calcaneus'?
+fma_q91,Is 'Vasculature of anterior chest' http://data.bioontology.org/metadata/prefix IRI 'Ileal tributary of ileocolic vein'?
+fma_q92,Is 'Bony part of transverse process of cervical vertebra' Obsolete '86975'?
+fma_q93,Is 'Saphenous branch of right descending genicular artery' FMAID '228656'?
+fma_q94,Is 'Deep tendon of tibialis posterior' FMAID 'C7 nerve component of left lateral pectoral nerve'?
+fma_q95,Is 'Wall of sigmoid colon' Synonyms 'fma:fma288385'?
+fma_q96,Is 'Space of supravesical fossa' preferred name '297327'?
+fma_q97,Is 'Segment of subclavian artery' Synonyms 'Plexus hepaticus'?
+fma_q98,Is 'Vasculature of endosteum of metacarpal bone' preferred name 'fma:fma309720'?
+fma_q99,Is 'Medulla of left hemisphere of posterior lobe of cerebellum' http://data.bioontology.org/metadata/prefix IRI '84127'?
+fma_q100,Is 'Brodmann area 6 of dorsal part of left precentral gyrus' preferred name 'fma:fma63226'?

@@ -1,0 +1,101 @@
+id,question,answer
+rxnorm_q1,Is 'vitamin E 100 UNT Chewable Tablet' RXAUI '6369495'?,Yes
+rxnorm_q2,Is 'carboxymethylcellulose' Semantic type UMLS property 'Pharmacologic Substance'?,Yes
+rxnorm_q3,Is 'chlorpheniramine maleate / phenylpropanolamine hydrochloride Oral Tablet' RXN OBSOLETED '08/30/2023'?,Yes
+rxnorm_q4,Is 'Astagraf Pill' Semantic Types 'Clinical Drug'?,Yes
+rxnorm_q5,Is 'prochlorperazine Rectal Suppository' isa 'prochlorperazine Rectal Product'?,Yes
+rxnorm_q6,Is 'alpha tocopherol / ascorbic acid / beta carotene / calcium carbonate / cholecalciferol / docusate / ferrous fumarate / folic acid / niacinamide / pantothenate / pyridoxine / riboflavin / thiamine / vitamin B12 / zinc oxide Pill' Has ingredient 'cholecalciferol'?,Yes
+rxnorm_q7,Is 'stannous fluoride 6.3 MG/ML Mouthwash' RXCUI '583459'?,Yes
+rxnorm_q8,Is 'sevelamer hydrochloride Pill' Inverse of isa 'sevelamer hydrochloride Oral Tablet'?,Yes
+rxnorm_q9,Is 'English plantain pollen extract 25 MG/ML' RXN OBSOLETED '02/24/2021'?,Yes
+rxnorm_q10,Is 'diloxanide' RXCUI '67182'?,Yes
+rxnorm_q11,Is 'Lidum' Semantic type UMLS property 'Pharmacologic Substance'?,Yes
+rxnorm_q12,Is 'benzalkonium chloride 1.3 MG/ML Medicated Liquid Soap' NDC '68016095264'?,Yes
+rxnorm_q13,Is 'vincristine sulfate' Semantic Types 'Pharmacologic Substance'?,Yes
+rxnorm_q14,"Is 'antihemophilic factor, human 1 UNT Injection [Monoclate]' isa 'Monoclate Injectable Product'?",Yes
+rxnorm_q15,Is 'cetirizine hydrochloride Oral Solution [Zyrtec]' Inverse of isa 'cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]'?,Yes
+rxnorm_q16,Is 'valacyclovir 1000 MG Oral Tablet [Valtrex]' RXAUI '3727171'?,Yes
+rxnorm_q17,Is 'chlorhexidine / ketoconazole Medicated Shampoo' Has ingredient 'ketoconazole'?,Yes
+rxnorm_q18,Is 'atropine / chlorpheniramine / hyoscyamine / phenylephrine / phenylpropanolamine / scopolamine' Has part 'hyoscyamine'?,Yes
+rxnorm_q19,Is 'amitriptyline hydrochloride / chlordiazepoxide Oral Capsule' CUI 'C5835824'?,Yes
+rxnorm_q20,Is 'chlorpheniramine maleate 4 MG Oral Tablet' NDC '41163019408'?,Yes
+rxnorm_q21,Is 'Pacnex' RXCUI '828433'?,Yes
+rxnorm_q22,Is 'Russian olive pollen extract 50 MG/ML Injectable Solution' NDC '22840341902'?,Yes
+rxnorm_q23,Is 'black imported fire ant allergenic extract / red imported fire ant allergenic extract Injectable Solution' Has ingredient 'red imported fire ant allergenic extract'?,Yes
+rxnorm_q24,Is 'carbinoxamine maleate 6 MG [Ryvent]' CUI 'C4306925'?,Yes
+rxnorm_q25,Is 'gold sodium thiomalate 100 MG/ML Injectable Solution' RXN AM '{360797} 42547'?,Yes
+rxnorm_q26,Is 'lidocaine hydrochloride 20 MG/ML Topical Spray' RXN HUMAN DRUG 'US'?,Yes
+rxnorm_q27,Is 'acetaminophen 325 MG / dextromethorphan hydrobromide 20 MG / guaifenesin 200 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet' CUI 'C4050464'?,Yes
+rxnorm_q28,Is 'testosterone undecanoate Oral Capsule [Kyzatrex]' Inverse of isa 'testosterone undecanoate 100 MG Oral Capsule [Kyzatrex]'?,Yes
+rxnorm_q29,Is 'Griffonia preparation' Semantic Types 'Organic Chemical'?,Yes
+rxnorm_q30,"Is '{28 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet) } Pack' RXAUI '12383848'?",Yes
+rxnorm_q31,Is 'levothyroxine sodium 0.05 MG [Unithroid]' Has ingredient 'Unithroid'?,Yes
+rxnorm_q32,Is 'sodium hypochlorite 0.00062 MG/MG' RXCUI '2044877'?,Yes
+rxnorm_q33,Is 'fluphenazine hydrochloride 10 MG Oral Tablet' NDC '27241025201'?,Yes
+rxnorm_q34,Is 'escitalopram 20 MG Oral Tablet' Obsolete 'False'?,Yes
+rxnorm_q35,Is 'benzoyl peroxide Soap Product' Inverse of isa 'benzoyl peroxide 90 MG/ML Medicated Liquid Soap'?,Yes
+rxnorm_q36,Is 'levonorgestrel 1.5 MG' Has ingredient 'levonorgestrel'?,Yes
+rxnorm_q37,Is 'benzydamine hydrochloride Mouthwash Product' Semantic Types 'Clinical Drug'?,Yes
+rxnorm_q38,Is 'sodium fluoride Toothpaste' Obsolete 'False'?,Yes
+rxnorm_q39,Is 'Nupro Chlorhexidine' Ingredient of 'chlorhexidine gluconate 1.2 MG/ML Mouthwash [Nupro Chlorhexidine]'?,Yes
+rxnorm_q40,Is 'pasireotide 40 MG Injection [Signifor]' Obsolete 'False'?,Yes
+rxnorm_q41,Is 'calcium palmitate' Obsolete 'False'?,Yes
+rxnorm_q42,Is 'Asepxia Topical Product' RXAUI '3830111'?,Yes
+rxnorm_q43,Is 'aluminum hydroxide 600 MG' constitutes 'aluminum hydroxide 600 MG / magnesium hydroxide 300 MG Oral Tablet'?,Yes
+rxnorm_q44,Is 'nitazoxanide 20 MG/ML Oral Suspension' Semantic Types 'Clinical Drug'?,Yes
+rxnorm_q45,Is 'technetium Tc 99m medronate' Semantic Types 'Organic Chemical'?,Yes
+rxnorm_q46,Is 'avanafil 200 MG Oral Tablet' isa 'avanafil Pill'?,Yes
+rxnorm_q47,Is 'sulfur 25 MG/ML Medicated Shampoo' RXN AM '{358489} 10223'?,Yes
+rxnorm_q48,Is 'aclidinium / formoterol Dry Powder Inhaler' Has tradename 'aclidinium / formoterol Dry Powder Inhaler [Duaklir]'?,Yes
+rxnorm_q49,Is 'bur oak pollen extract 1 MG/ML' RXN BOSS STRENGTH NUM VALUE '1.0'?,Yes
+rxnorm_q50,Is 'mepivacaine hydrochloride 20 MG/ML Injectable Solution [Carbocaine]' isa 'mepivacaine hydrochloride Injectable Solution [Carbocaine]'?,Yes
+rxnorm_q51,Is 'nonacog alfa 1 UNT Injection [Rixubis]' RXN AM '2563425'?,No
+rxnorm_q52,Is 'Roxybond' Has precise ingredient 'C3865182'?,No
+rxnorm_q53,Is 'Clear Proof Acne Medication Topical Product' CUI 'benzoyl peroxide / colloid sulfur'?,No
+rxnorm_q54,Is 'ivermectin / praziquantel Oral Paste Product' Has doseformgroup 'diphenhydrAMINE hydrochloride / pseudoephedrine hydrochloride Disintegrating Oral Tablet [Benadryl Allergy Sinus]'?,No
+rxnorm_q55,Is 'ibandronic acid 2.5 MG' RXN BOSS STRENGTH DENOM UNIT '205333'?,No
+rxnorm_q56,Is 'brompheniramine maleate / pseudoephedrine sulfate Oral Product' Inverse of isa 'lanreotide Injectable Product'?,No
+rxnorm_q57,Is 'calcitriol Pill' Semantic Types '6830598'?,No
+rxnorm_q58,Is 'propiverine hydrochloride' CUI '857695'?,No
+rxnorm_q59,Is 'sildenafil 100 MG [Viagra]' Obsolete 'viquidil hydrochloride'?,No
+rxnorm_q60,Is 'benzalkonium chloride 25 MG/ML' Has ingredient '68016001859'?,No
+rxnorm_q61,Is 'manganese sulfate 0.0467 MG/ML' Has ingredient 'iodine 10 MG/ML [Barrier-Dyne]'?,No
+rxnorm_q62,Is 'benzoyl peroxide 55 MG/ML Topical Cream' RXN HUMAN DRUG 'C4689422'?,No
+rxnorm_q63,Is 'gadobenate' Semantic Types '866511'?,No
+rxnorm_q64,Is 'levomilnacipran 40 MG' Semantic type UMLS property '41250063409'?,No
+rxnorm_q65,Is 'bupropion hydrobromide 174 MG' RXN BOSS STRENGTH NUM VALUE 'C1634532'?,No
+rxnorm_q66,Is 'Lavandula x intermedia flower extract' Semantic Types '6363527'?,No
+rxnorm_q67,Is 'riociguat 0.5 MG' Semantic Types '65862001650'?,No
+rxnorm_q68,Is 'naldemedine 0.2 MG Oral Tablet' Has tradename 'amphetamine sulfate 10 MG Disintegrating Oral Tablet [Evekeo]'?,No
+rxnorm_q69,Is 'chlorpheniramine maleate / dextromethorphan hydrobromide / pseudoephedrine hydrochloride Oral Suspension [Entre-S]' RXN OBSOLETED '66715645608'?,No
+rxnorm_q70,Is '24 HR amphetamine 2.5 MG/ML Extended Release Suspension' RXAUI 'betaine / glutamate / pepsin A'?,No
+rxnorm_q71,Is 'pyruvate' Obsolete 'sulfacetamide sodium / sulfur Topical Foam [Rosula]'?,No
+rxnorm_q72,Is 'Sileo Oral Gel Product' Tradename of '3060438'?,No
+rxnorm_q73,Is 'chlorpheniramine maleate / ibuprofen / phenylephrine hydrochloride Pill' Semantic Types '70518029300'?,No
+rxnorm_q74,Is 'menthol 3.2 MG Oral Lozenge [Halls]' Synonyms '24385064778'?,No
+rxnorm_q75,Is 'atorvastatin Oral Suspension' RXAUI '64169001222'?,No
+rxnorm_q76,Is 'sulfachlorpyridazine sodium' Form of 'LaMICtal 25 MG Chewable Dispersible Tablet'?,No
+rxnorm_q77,Is 'diazepam 100 MG/ML [Valtoco]' RXAUI '2369403'?,No
+rxnorm_q78,Is 'alanine 9.93 MG/ML / arginine 10.2 MG/ML / aspartate 7 MG/ML / glutamate 7.38 MG/ML / glycine 5 MG/ML / histidine 3 MG/ML / isoleucine 6.6 MG/ML / leucine 10 MG/ML / lysine 10.5 MG/ML / methionine 1.72 MG/ML / phenylalanine 2.98 MG/ML / proline 7.22 MG/ML / serine 5.3 MG/ML / threonine 4 MG/ML / tryptophan 2 MG/ML / tyrosine 2.7 MG/ML / valine 5 MG/ML Injectable Solution [Aminosyn II 10 %]' RXAUI '46708001930'?,No
+rxnorm_q79,Is 'Arthriten Inflammatory Pain Pill' RXCUI '7910'?,No
+rxnorm_q80,Is '1 ML medroxyprogesterone acetate 150 MG/ML Prefilled Syringe [Depo-Provera]' Has dose form '12523523'?,No
+rxnorm_q81,Is 'acyclovir Oral Liquid Product' Has tradename '22840561205'?,No
+rxnorm_q82,Is 'dextran 70 320 MG/ML Injectable Solution' RXN AI 'C5845137'?,No
+rxnorm_q83,Is 'calcium chloride 0.00232 MEQ/ML / icodextrin 75 MG/ML / magnesium chloride 0.000533 MEQ/ML / sodium chloride 0.0915 MEQ/ML / sodium lactate 0.04 MEQ/ML Injectable Solution' Has tradename 'Evamist 1.7 % Topical Spray'?,No
+rxnorm_q84,Is 'aspirin / caffeine / dihydrocodeine bitartrate / promethazine hydrochloride Oral Product' Obsolete '1167543'?,No
+rxnorm_q85,Is 'ketorolac tromethamine 4.5 MG/ML Ophthalmic Solution' RXN AVAILABLE STRENGTH '62037069930'?,No
+rxnorm_q86,Is 'alpelisib Oral Product' RXCUI '80421010001'?,No
+rxnorm_q87,Is 'cottonseed allergenic extract 50 MG/ML Injectable Solution' RXN HUMAN DRUG '63323037704'?,No
+rxnorm_q88,Is 'abemaciclib 50 MG Oral Tablet' Consists of '17856007905'?,No
+rxnorm_q89,Is 'ChoreMate One-Shot' RXN BN CARDINALITY '57896098310'?,No
+rxnorm_q90,Is 'dextromethorphan polistirex / guaifenesin Oral Liquid Product' Semantic type UMLS property 'C5846788'?,No
+rxnorm_q91,Is 'benzoyl peroxide 0.05 MG/MG Topical Gel [Desquam]' CUI '{1439839} 1455099'?,No
+rxnorm_q92,Is 'brigatinib Oral Product' Semantic type UMLS property '55154799000'?,No
+rxnorm_q93,Is 'tetracycline hydrochloride Topical Ointment [Achromycin]' RXN OBSOLETED '00065041881'?,No
+rxnorm_q94,Is 'histidine / isoleucine / leucine / lysine / methionine / phenylalanine / threonine / tryptophan / valine' RXCUI '372326'?,No
+rxnorm_q95,Is '0.5 ML modified Vaccinia Ankara-Bavarian Nordic 198000000 UNT/ML Injection' RXN AM '{1090820} 21579'?,No
+rxnorm_q96,Is 'torsemide 40 MG Oral Tablet [Soaanz]' RXN AVAILABLE STRENGTH '7741032'?,No
+rxnorm_q97,"Is 'pramoxine / zinc acetate Topical Lotion' Semantic Types 'infigratinib 75 MG Daily Dose Carton, 2 Blister Cards, 42 & 21 Capsules Each'?",No
+rxnorm_q98,Is 'phenol 20 MG/ML Topical Solution' Semantic type UMLS property '209387'?,No
+rxnorm_q99,Is 'English plantain pollen extract 1 MG/ML Injectable Solution' RXTERM FORM '2057158'?,No
+rxnorm_q100,Is 'ammonium chloride / ipecac' RXAUI '63874110601'?,No

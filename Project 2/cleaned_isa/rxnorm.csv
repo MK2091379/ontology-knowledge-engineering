@@ -1,0 +1,126 @@
+Child,Parent
+Organization,Conceptual Entity
+Health Care Related Organization,Organization
+Professional Society,Organization
+Group,Conceptual Entity
+Population Group,Group
+Family Group,Group
+Professional or Occupational Group,Group
+Self-help or Relief Organization,Organization
+Occupation or Discipline,Conceptual Entity
+Biomedical Occupation or Discipline,Occupation or Discipline
+Organ or Tissue Function,Physiologic Function
+Disease or Syndrome,Pathologic Function
+Pathologic Function,Biologic Function
+Organism Function,Physiologic Function
+Mental or Behavioral Dysfunction,Disease or Syndrome
+Mental Process,Organism Function
+Genetic Function,Molecular Function
+Cell or Molecular Dysfunction,Pathologic Function
+Molecular Function,Physiologic Function
+Cell Function,Physiologic Function
+Biologically Active Substance,Chemical Viewed Functionally
+Biomedical or Dental Material,Chemical Viewed Functionally
+Immunologic Factor,Biologically Active Substance
+Vitamin,Biologically Active Substance
+Chemical Viewed Functionally,Chemical
+Enzyme,Biologically Active Substance
+Pharmacologic Substance,Chemical Viewed Functionally
+Hormone,Biologically Active Substance
+Food,Substance
+Substance,Physical Object
+Functional Concept,Idea or Concept
+Health Care Activity,Occupational Activity
+Behavior,Activity
+Activity,Event
+Social Behavior,Behavior
+Daily or Recreational Activity,Activity
+Individual Behavior,Behavior
+Experimental Model of Disease,Pathologic Function
+Laboratory Procedure,Health Care Activity
+Occupational Activity,Activity
+Molecular Biology Research Technique,Research Activity
+Governmental or Regulatory Activity,Occupational Activity
+Research Activity,Occupational Activity
+Educational Activity,Occupational Activity
+Diagnostic Procedure,Health Care Activity
+Therapeutic or Preventive Procedure,Health Care Activity
+Environmental Effect of Humans,Human-caused Phenomenon or Process
+Phenomenon or Process,Event
+Machine Activity,Activity
+Human-caused Phenomenon or Process,Phenomenon or Process
+"Nucleic Acid, Nucleoside, or Nucleotide",Organic Chemical
+"Amino Acid, Peptide, or Protein",Organic Chemical
+Cell Component,Fully Formed Anatomical Structure
+Acquired Abnormality,Anatomical Abnormality
+Cell,Fully Formed Anatomical Structure
+"Body Part, Organ, or Organ Component",Fully Formed Anatomical Structure
+Gene or Genome,Fully Formed Anatomical Structure
+Body System,Functional Concept
+Body Location or Region,Spatial Concept
+Tissue,Fully Formed Anatomical Structure
+Fully Formed Anatomical Structure,Anatomical Structure
+Drug Delivery Device,Medical Device
+Clinical Attribute,Organism Attribute
+Clinical Drug,Manufactured Object
+Eukaryote,Organism
+Language,Conceptual Entity
+Intellectual Product,Conceptual Entity
+Fish,Vertebrate
+Human,Mammal
+Mammal,Vertebrate
+Reptile,Vertebrate
+Amphibian,Vertebrate
+Vertebrate,Animal
+Congenital Abnormality,Anatomical Abnormality
+Anatomical Structure,Physical Object
+Embryonic Structure,Anatomical Structure
+Bird,Vertebrate
+"Element, Ion, or Isotope",Chemical Viewed Structurally
+Receptor,Biologically Active Substance
+Inorganic Chemical,Chemical Viewed Structurally
+Archaeon,Organism
+Anatomical Abnormality,Anatomical Structure
+Neoplastic Process,Disease or Syndrome
+Antibiotic,Pharmacologic Substance
+Body Space or Junction,Spatial Concept
+Body Substance,Substance
+Physiologic Function,Biologic Function
+Finding,Conceptual Entity
+Laboratory or Test Result,Finding
+Biologic Function,Natural Phenomenon or Process
+Organism Attribute,Conceptual Entity
+Injury or Poisoning,Phenomenon or Process
+Manufactured Object,Physical Object
+Research Device,Manufactured Object
+Conceptual Entity,Entity
+Temporal Concept,Idea or Concept
+Physical Object,Entity
+Natural Phenomenon or Process,Phenomenon or Process
+Medical Device,Manufactured Object
+Idea or Concept,Conceptual Entity
+Age Group,Group
+Patient or Disabled Group,Group
+Chemical,Substance
+Group Attribute,Conceptual Entity
+Chemical Viewed Structurally,Chemical
+Organic Chemical,Chemical Viewed Structurally
+Quantitative Concept,Idea or Concept
+Regulation or Law,Intellectual Product
+Geographic Area,Spatial Concept
+Nucleotide Sequence,Molecular Sequence
+Spatial Concept,Idea or Concept
+Carbohydrate Sequence,Molecular Sequence
+Qualitative Concept,Idea or Concept
+Molecular Sequence,Spatial Concept
+Amino Acid Sequence,Molecular Sequence
+Organism,Physical Object
+Virus,Organism
+Plant,Eukaryote
+Bacterium,Organism
+Fungus,Eukaryote
+Animal,Eukaryote
+Classification,Intellectual Product
+Sign or Symptom,Finding
+"Indicator, Reagent, or Diagnostic Aid",Chemical Viewed Functionally
+Hazardous or Poisonous Substance,Chemical Viewed Functionally

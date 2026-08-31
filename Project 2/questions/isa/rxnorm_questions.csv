@@ -1,0 +1,101 @@
+id,question,answer
+rxnorm_q1,Is 'Biomedical Occupation or Discipline' a type of 'Occupation or Discipline'?,Yes
+rxnorm_q2,"Is 'Amino Acid, Peptide, or Protein' a type of 'Organic Chemical'?",Yes
+rxnorm_q3,Is 'Cell or Molecular Dysfunction' a type of 'Pathologic Function'?,Yes
+rxnorm_q4,Is 'Antibiotic' a type of 'Pharmacologic Substance'?,Yes
+rxnorm_q5,Is 'Mental or Behavioral Dysfunction' a type of 'Disease or Syndrome'?,Yes
+rxnorm_q6,Is 'Cell Function' a type of 'Physiologic Function'?,Yes
+rxnorm_q7,Is 'Mental Process' a type of 'Organism Function'?,Yes
+rxnorm_q8,Is 'Spatial Concept' a type of 'Idea or Concept'?,Yes
+rxnorm_q9,Is 'Genetic Function' a type of 'Molecular Function'?,Yes
+rxnorm_q10,Is 'Population Group' a type of 'Group'?,Yes
+rxnorm_q11,Is 'Geographic Area' a type of 'Spatial Concept'?,Yes
+rxnorm_q12,Is 'Language' a type of 'Conceptual Entity'?,Yes
+rxnorm_q13,Is 'Physical Object' a type of 'Entity'?,Yes
+rxnorm_q14,Is 'Chemical' a type of 'Substance'?,Yes
+rxnorm_q15,Is 'Acquired Abnormality' a type of 'Anatomical Abnormality'?,Yes
+rxnorm_q16,Is 'Amino Acid Sequence' a type of 'Molecular Sequence'?,Yes
+rxnorm_q17,Is 'Tissue' a type of 'Fully Formed Anatomical Structure'?,Yes
+rxnorm_q18,Is 'Food' a type of 'Substance'?,Yes
+rxnorm_q19,Is 'Injury or Poisoning' a type of 'Phenomenon or Process'?,Yes
+rxnorm_q20,Is 'Hormone' a type of 'Biologically Active Substance'?,Yes
+rxnorm_q21,Is 'Group Attribute' a type of 'Conceptual Entity'?,Yes
+rxnorm_q22,Is 'Body Substance' a type of 'Substance'?,Yes
+rxnorm_q23,Is 'Animal' a type of 'Eukaryote'?,Yes
+rxnorm_q24,Is 'Professional or Occupational Group' a type of 'Group'?,Yes
+rxnorm_q25,Is 'Manufactured Object' a type of 'Physical Object'?,Yes
+rxnorm_q26,Is 'Clinical Drug' a type of 'Manufactured Object'?,Yes
+rxnorm_q27,Is 'Vertebrate' a type of 'Animal'?,Yes
+rxnorm_q28,Is 'Natural Phenomenon or Process' a type of 'Phenomenon or Process'?,Yes
+rxnorm_q29,Is 'Diagnostic Procedure' a type of 'Health Care Activity'?,Yes
+rxnorm_q30,Is 'Neoplastic Process' a type of 'Disease or Syndrome'?,Yes
+rxnorm_q31,Is 'Age Group' a type of 'Group'?,Yes
+rxnorm_q32,"Is 'Element, Ion, or Isotope' a type of 'Chemical Viewed Structurally'?",Yes
+rxnorm_q33,Is 'Immunologic Factor' a type of 'Biologically Active Substance'?,Yes
+rxnorm_q34,Is 'Fungus' a type of 'Eukaryote'?,Yes
+rxnorm_q35,Is 'Phenomenon or Process' a type of 'Event'?,Yes
+rxnorm_q36,Is 'Functional Concept' a type of 'Idea or Concept'?,Yes
+rxnorm_q37,Is 'Substance' a type of 'Physical Object'?,Yes
+rxnorm_q38,Is 'Organism Attribute' a type of 'Conceptual Entity'?,Yes
+rxnorm_q39,Is 'Group' a type of 'Conceptual Entity'?,Yes
+rxnorm_q40,Is 'Carbohydrate Sequence' a type of 'Molecular Sequence'?,Yes
+rxnorm_q41,Is 'Biologic Function' a type of 'Natural Phenomenon or Process'?,Yes
+rxnorm_q42,Is 'Reptile' a type of 'Vertebrate'?,Yes
+rxnorm_q43,Is 'Anatomical Abnormality' a type of 'Anatomical Structure'?,Yes
+rxnorm_q44,Is 'Nucleotide Sequence' a type of 'Molecular Sequence'?,Yes
+rxnorm_q45,Is 'Bird' a type of 'Vertebrate'?,Yes
+rxnorm_q46,Is 'Clinical Attribute' a type of 'Organism Attribute'?,Yes
+rxnorm_q47,Is 'Behavior' a type of 'Activity'?,Yes
+rxnorm_q48,Is 'Chemical Viewed Structurally' a type of 'Chemical'?,Yes
+rxnorm_q49,Is 'Family Group' a type of 'Group'?,Yes
+rxnorm_q50,Is 'Molecular Sequence' a type of 'Spatial Concept'?,Yes
+rxnorm_q51,Is 'Anatomical Abnormality' a type of 'Pharmacologic Substance'?,No
+rxnorm_q52,Is 'Health Care Activity' a type of 'Organism'?,No
+rxnorm_q53,Is 'Spatial Concept' a type of 'Organism Attribute'?,No
+rxnorm_q54,Is 'Body Space or Junction' a type of 'Animal'?,No
+rxnorm_q55,Is 'Vertebrate' a type of 'Organism'?,No
+rxnorm_q56,Is 'Archaeon' a type of 'Disease or Syndrome'?,No
+rxnorm_q57,Is 'Animal' a type of 'Phenomenon or Process'?,No
+rxnorm_q58,Is 'Animal' a type of 'Substance'?,No
+rxnorm_q59,Is 'Regulation or Law' a type of 'Finding'?,No
+rxnorm_q60,Is 'Fully Formed Anatomical Structure' a type of 'Chemical'?,No
+rxnorm_q61,Is 'Therapeutic or Preventive Procedure' a type of 'Pathologic Function'?,No
+rxnorm_q62,Is 'Classification' a type of 'Pharmacologic Substance'?,No
+rxnorm_q63,Is 'Machine Activity' a type of 'Anatomical Structure'?,No
+rxnorm_q64,Is 'Medical Device' a type of 'Biologic Function'?,No
+rxnorm_q65,Is 'Fungus' a type of 'Spatial Concept'?,No
+rxnorm_q66,Is 'Laboratory or Test Result' a type of 'Pathologic Function'?,No
+rxnorm_q67,Is 'Idea or Concept' a type of 'Human-caused Phenomenon or Process'?,No
+rxnorm_q68,Is 'Temporal Concept' a type of 'Fully Formed Anatomical Structure'?,No
+rxnorm_q69,Is 'Cell Function' a type of 'Spatial Concept'?,No
+rxnorm_q70,Is 'Organ or Tissue Function' a type of 'Human-caused Phenomenon or Process'?,No
+rxnorm_q71,Is 'Chemical Viewed Structurally' a type of 'Fully Formed Anatomical Structure'?,No
+rxnorm_q72,Is 'Food' a type of 'Chemical Viewed Functionally'?,No
+rxnorm_q73,Is 'Natural Phenomenon or Process' a type of 'Research Activity'?,No
+rxnorm_q74,Is 'Disease or Syndrome' a type of 'Occupation or Discipline'?,No
+rxnorm_q75,Is 'Educational Activity' a type of 'Behavior'?,No
+rxnorm_q76,Is 'Activity' a type of 'Occupation or Discipline'?,No
+rxnorm_q77,Is 'Medical Device' a type of 'Pathologic Function'?,No
+rxnorm_q78,Is 'Behavior' a type of 'Behavior'?,No
+rxnorm_q79,"Is 'Indicator, Reagent, or Diagnostic Aid' a type of 'Eukaryote'?",No
+rxnorm_q80,Is 'Human' a type of 'Fully Formed Anatomical Structure'?,No
+rxnorm_q81,Is 'Biomedical or Dental Material' a type of 'Intellectual Product'?,No
+rxnorm_q82,Is 'Research Activity' a type of 'Behavior'?,No
+rxnorm_q83,Is 'Research Activity' a type of 'Finding'?,No
+rxnorm_q84,Is 'Body Space or Junction' a type of 'Natural Phenomenon or Process'?,No
+rxnorm_q85,Is 'Professional or Occupational Group' a type of 'Organism Function'?,No
+rxnorm_q86,Is 'Occupational Activity' a type of 'Health Care Activity'?,No
+rxnorm_q87,Is 'Manufactured Object' a type of 'Research Activity'?,No
+rxnorm_q88,Is 'Immunologic Factor' a type of 'Activity'?,No
+rxnorm_q89,Is 'Natural Phenomenon or Process' a type of 'Organization'?,No
+rxnorm_q90,Is 'Disease or Syndrome' a type of 'Spatial Concept'?,No
+rxnorm_q91,Is 'Biologic Function' a type of 'Chemical Viewed Functionally'?,No
+rxnorm_q92,Is 'Clinical Drug' a type of 'Chemical'?,No
+rxnorm_q93,Is 'Research Device' a type of 'Biologically Active Substance'?,No
+rxnorm_q94,Is 'Organism Function' a type of 'Organization'?,No
+rxnorm_q95,"Is 'Body Part, Organ, or Organ Component' a type of 'Functional Concept'?",No
+rxnorm_q96,Is 'Daily or Recreational Activity' a type of 'Phenomenon or Process'?,No
+rxnorm_q97,Is 'Cell Function' a type of 'Idea or Concept'?,No
+rxnorm_q98,Is 'Cell Function' a type of 'Substance'?,No
+rxnorm_q99,Is 'Mental or Behavioral Dysfunction' a type of 'Fully Formed Anatomical Structure'?,No
+rxnorm_q100,Is 'Human' a type of 'Organic Chemical'?,No

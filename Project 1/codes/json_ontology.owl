@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.org/neo4j-ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_109">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>country</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_121">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_104"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_109"/>
+    <rdfs:label>Russia</rdfs:label>
+    <ex:involvedIn rdf:resource="http://example.org/neo4j-ontology#node_111"/>
+    <ex:isCountrySanctionedIn rdf:resource="http://example.org/neo4j-ontology#node_130"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_98">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>US election</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/neo4j-ontology#node_97"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_99">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>geopolitical event</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_129">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_99"/>
+    <rdfs:label>Tension</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_141">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_129"/>
+    <rdfs:label>north america tensions</rdfs:label>
+    <ex:causedBy rdf:resource="http://example.org/neo4j-ontology#node_118"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_120">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_103"/>
+    <rdfs:label>USD</rdfs:label>
+    <ex:positivelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_122">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_104"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_109"/>
+    <rdfs:label>USA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_102">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>market</rdfs:label>
+    <ex:hasAttribute rdf:resource="http://example.org/neo4j-ontology#node_40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_103">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>currency</rdfs:label>
+    <ex:hasAttribute rdf:resource="http://example.org/neo4j-ontology#node_126"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_118">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_97"/>
+    <rdfs:label>republican victory</rdfs:label>
+    <ex:increaseValueOf rdf:resource="http://example.org/neo4j-ontology#node_120"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_119">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_103"/>
+    <rdfs:label>EUR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_100">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>war</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/neo4j-ontology#node_99"/>
+    <ex:decrease rdf:resource="http://example.org/neo4j-ontology#node_113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_136">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_108"/>
+    <rdfs:label>china rapid growth</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_134">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_105"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_109"/>
+    <rdfs:label>Iran</rdfs:label>
+    <ex:isCountrySanctionedIn rdf:resource="http://example.org/neo4j-ontology#node_133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_105">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Middle East countires</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/neo4j-ontology#node_104"/>
+    <ex:involvedIn rdf:resource="http://example.org/neo4j-ontology#node_112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_114">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_96"/>
+    <rdfs:label>oil supply</rdfs:label>
+    <ex:negativelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_110"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_130">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_107"/>
+    <rdfs:label>russia sanctions </rdfs:label>
+    <ex:sanctionedBy rdf:resource="http://example.org/neo4j-ontology#node_122"/>
+    <ex:sanctionedBy rdf:resource="http://example.org/neo4j-ontology#node_131"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_126">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>currency value</rdfs:label>
+    <ex:negativelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_108">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>economy growth</rdfs:label>
+    <ex:increase rdf:resource="http://example.org/neo4j-ontology#node_135"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_137">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_108"/>
+    <rdfs:label>India rapid Growth</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_139">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_109"/>
+    <rdfs:label>Taiwan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_117">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Bab al-Mandab Strait insecurity</rdfs:label>
+    <ex:caused_by rdf:resource="http://example.org/neo4j-ontology#node_112"/>
+    <ex:decreaseValueOf rdf:resource="http://example.org/neo4j-ontology#node_120"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_41">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_101"/>
+    <rdfs:label>oil demand</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_116">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>syria revoloution</rdfs:label>
+    <ex:caused_by rdf:resource="http://example.org/neo4j-ontology#node_112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_101">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>demand</rdfs:label>
+    <ex:positivelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_110"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_107">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>international sanction</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/neo4j-ontology#node_99"/>
+    <ex:increase rdf:resource="http://example.org/neo4j-ontology#node_132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_133">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_107"/>
+    <rdfs:label>Iran sanctions</rdfs:label>
+    <ex:sanctionedBy rdf:resource="http://example.org/neo4j-ontology#node_122"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_140">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_129"/>
+    <rdfs:label>Asia north esat tensin</rdfs:label>
+    <ex:causedby rdf:resource="http://example.org/neo4j-ontology#node_138"/>
+    <ex:causedBy rdf:resource="http://example.org/neo4j-ontology#node_139"/>
+    <ex:increase rdf:resource="http://example.org/neo4j-ontology#node_132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_124">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>gold price</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_127">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_106"/>
+    <rdfs:label>forex market</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_96">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>supply</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_104">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>oil producer</rdfs:label>
+    <ex:control rdf:resource="http://example.org/neo4j-ontology#node_113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_123">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_98"/>
+    <rdfs:label>2024 Us Election</rdfs:label>
+    <ex:hasNegativeEffectOn rdf:resource="http://example.org/neo4j-ontology#node_106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_113">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>oil production</rdfs:label>
+    <ex:determine rdf:resource="http://example.org/neo4j-ontology#node_114"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_125">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>inflation</rdfs:label>
+    <ex:positivelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_124"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_110">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>oil price</rdfs:label>
+    <ex:positivelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_135">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>global activity</rdfs:label>
+    <ex:determine rdf:resource="http://example.org/neo4j-ontology#node_41"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_128">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_106"/>
+    <rdfs:label>stock market</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_106">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>US market</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/neo4j-ontology#node_102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_111">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_100"/>
+    <rdfs:label>Russia_Ukraine war</rdfs:label>
+    <ex:decreaseValueOf rdf:resource="http://example.org/neo4j-ontology#node_119"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_138">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_109"/>
+    <rdfs:label>China</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_112">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://example.org/neo4j-ontology#node_100"/>
+    <rdfs:label>7th october event</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_97">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>political event</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_115">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Middle East conflicts</rdfs:label>
+    <ex:caused_by rdf:resource="http://example.org/neo4j-ontology#node_112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_40">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>overal value</rdfs:label>
+    <ex:negativelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_132">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>risk level </rdfs:label>
+    <ex:positivelyCorrelatedWith rdf:resource="http://example.org/neo4j-ontology#node_124"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/neo4j-ontology#node_131">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Europe</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,101 @@
+id,question
+cso_q1,Is 'engineering drawing' a type of 'drawing %28graphics%29'?
+cso_q2,Is 'multichip modules' a type of 'electronics packaging'?
+cso_q3,Is 'indoor positioning' a type of 'location-based service'?
+cso_q4,Is 'decryption keys' a type of 'cryptography'?
+cso_q5,Is 'loss reduction' a type of 'distribution systems'?
+cso_q6,Is 'beam pattern' a type of 'beamforming'?
+cso_q7,Is 'neural network' a type of 'machine learning algorithms'?
+cso_q8,Is 'reconstruction quality' a type of 'signal reconstruction'?
+cso_q9,Is 'formal specifications' a type of 'formal method'?
+cso_q10,Is 'acoustic waves' a type of 'acoustics'?
+cso_q11,Is 'local optimal solution' a type of 'pso algorithm'?
+cso_q12,Is 'supervector' a type of 'support vector machines %28svms%29'?
+cso_q13,Is 'proportional integral derivative controllers' a type of 'pi controller'?
+cso_q14,Is 'content-based retrieval' a type of 'multimedia systems'?
+cso_q15,Is 'coding gains' a type of 'image coding'?
+cso_q16,Is 'sink mobility' a type of 'mobile sinks'?
+cso_q17,Is 'positioning technologies' a type of 'location-based services'?
+cso_q18,Is 'distributed localization' a type of 'localization errors'?
+cso_q19,Is 'high-dimensional data' a type of 'clustering techniques'?
+cso_q20,Is 'aspect oriented software development' a type of 'crosscutting concerns'?
+cso_q21,Is 'base station cooperation' a type of 'cellular network'?
+cso_q22,Is 'optical signal processing' a type of 'optical materials'?
+cso_q23,Is 'band-notched' a type of 'frequency bands'?
+cso_q24,Is 'prototyping' a type of 'software development process'?
+cso_q25,Is 'interferometric synthetic aperture radars' a type of 'synthetic apertures'?
+cso_q26,Is 'wsn' a type of 'routing algorithms'?
+cso_q27,Is 'fault tolerant routing' a type of 'network architecture'?
+cso_q28,Is 'speech compression' a type of 'data compression'?
+cso_q29,Is 'communication models' a type of 'information theory'?
+cso_q30,Is 'information system architecture' a type of 'system architecture'?
+cso_q31,Is 'analytic signals' a type of 'hilbert transform'?
+cso_q32,Is 'queuing model' a type of 'queuing network'?
+cso_q33,Is 'sliding mode' a type of 'adaptive control'?
+cso_q34,Is 'heterogeneous wireless sensor networks' a type of 'sensor networks'?
+cso_q35,Is 'inference algorithm' a type of 'inference engines'?
+cso_q36,Is 'latent variable' a type of 'regression analysis'?
+cso_q37,Is 'long short term memory neural networks' a type of 'artificial neural network'?
+cso_q38,Is 'fleet operations' a type of 'routing'?
+cso_q39,Is 'technology enhanced learning' a type of 'e-learning'?
+cso_q40,Is 'many-valued logic' a type of 'boolean functions'?
+cso_q41,Is 'data exchange' a type of 'data integration'?
+cso_q42,Is 'vibration energy harvesting' a type of 'energy harvesting'?
+cso_q43,Is 'naive bayes' a type of 'decision tree'?
+cso_q44,Is 'ldpc decoder' a type of 'coding errors'?
+cso_q45,Is 'half-duplex' a type of 'relay channels'?
+cso_q46,Is 'delay-tolerant network' a type of 'routing protocol'?
+cso_q47,Is 'proxy climate record' a type of 'reconstruction'?
+cso_q48,Is 'carrier aggregations' a type of '4g mobile communication systems'?
+cso_q49,Is 'robotic hand' a type of 'robotic arms'?
+cso_q50,Is 'self-organizing feature maps' a type of 'self-organizing map'?
+cso_q51,Is 'alamouti' a type of 'heterogeneous network environments'?
+cso_q52,Is 'electrostatic actuation' a type of 'finite time'?
+cso_q53,Is 'computer aided process planning' a type of 'compression methods'?
+cso_q54,Is 'rfid middleware' a type of 'semiconducting aluminum compounds'?
+cso_q55,Is 'cache' a type of 'stego images'?
+cso_q56,Is 'laser point' a type of 'artificial neural network'?
+cso_q57,Is 'anechoic chambers' a type of 'cognitive systems'?
+cso_q58,Is 'distributed system' a type of 'fractional-order systems'?
+cso_q59,Is 'multi-robot' a type of 'surveillance cameras'?
+cso_q60,Is 'allozyme' a type of 'sleep mode'?
+cso_q61,Is 'dielectric relaxation' a type of 'vehicle routing problem'?
+cso_q62,Is 'security attacks' a type of 'semi-blind'?
+cso_q63,Is 'language guessing' a type of 'financial data processing'?
+cso_q64,Is 'm-matrix' a type of 'statistical analysis'?
+cso_q65,Is 'femtoseconds' a type of 'acoustic modeling'?
+cso_q66,Is 'spin transfer torque' a type of 'dipole antenna'?
+cso_q67,Is 'sea state' a type of 'nonlinear optical properties'?
+cso_q68,Is 'handoff decision' a type of 'high definition television'?
+cso_q69,Is 'continuous wave radar' a type of 'feedback control'?
+cso_q70,Is 'static analysis' a type of 'least squares approximations'?
+cso_q71,Is 'chinese characters' a type of 'cognitive networks'?
+cso_q72,Is 'independent component analysis %28ica%29' a type of 'combinatorial optimisation'?
+cso_q73,Is 'human computer interaction' a type of 'linux- operating system'?
+cso_q74,Is 'pll' a type of 'grey prediction'?
+cso_q75,Is 'textual entailment' a type of 'backpropagation algorithm'?
+cso_q76,Is 'sink nodes' a type of 'periodic structures'?
+cso_q77,Is 'noise signals' a type of 'convergence%2C ocular'?
+cso_q78,Is 'inas quantum dots' a type of 'chromosome translocation 22'?
+cso_q79,Is 'on chip memory' a type of 'image denoising'?
+cso_q80,Is 'type strain' a type of 'tracking radar'?
+cso_q81,Is 'probabilistic routing' a type of 'mathematical transformations'?
+cso_q82,Is 'parallel mechanism' a type of 'ellipsometry'?
+cso_q83,Is 'selective mapping' a type of 'catalogue identifiers'?
+cso_q84,Is 'attitude control' a type of 'vocabulary control'?
+cso_q85,Is 'dynamic partial reconfiguration' a type of 'identity-based encryption'?
+cso_q86,Is 'brain-computer interfaces' a type of 'fragile watermarking'?
+cso_q87,Is 'walking pattern' a type of 'complex networks'?
+cso_q88,Is 'index of biotic integrity' a type of 'high electron mobility transistors'?
+cso_q89,Is 'mammograms' a type of 'two-photon absorption'?
+cso_q90,Is 'umls' a type of 'mean squared error'?
+cso_q91,Is 'correlation dimensions' a type of 'metal insulator boundaries'?
+cso_q92,Is 'hole mobility' a type of 'facial images'?
+cso_q93,Is 'remote servers' a type of 'group communications'?
+cso_q94,Is 'security level' a type of 'variable frequency oscillators'?
+cso_q95,Is 'bipedal robot' a type of 'takagi sugeno fuzzy models'?
+cso_q96,Is 'quality of service parameters' a type of 'distribution functions'?
+cso_q97,Is 'nitrospirae' a type of 'gabor wavelets'?
+cso_q98,Is 'cost-utility' a type of 'phase unwrapping'?
+cso_q99,Is 'incompressible flows' a type of 'hand held device'?
+cso_q100,Is 'queuing networks' a type of 'signal sub-space'?

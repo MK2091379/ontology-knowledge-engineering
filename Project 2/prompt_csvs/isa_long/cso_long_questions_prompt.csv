@@ -1,0 +1,101 @@
+id,question
+cso_q1,Is 'spreading codes' a type of 'signal to noise ratio'?
+cso_q2,Is 'speech transmission' a type of 'computer system'?
+cso_q3,Is 'antenna reflectors' a type of 'telecommunication systems'?
+cso_q4,Is 'reference architecture' a type of 'computer science'?
+cso_q5,Is 'spindle speed' a type of 'cad'?
+cso_q6,Is 'baum-welch algorithm' a type of 'mathematics'?
+cso_q7,Is 'permanent faults' a type of 'computer systems'?
+cso_q8,Is 'secret sharing scheme' a type of 'cryptology'?
+cso_q9,Is 'error rate %28er%29' a type of 'database'?
+cso_q10,Is 'grating' a type of 'machine learnings'?
+cso_q11,Is 'periodic arrays' a type of 'computer networks'?
+cso_q12,Is 'semiconductor optical amplifier' a type of 'sensors'?
+cso_q13,Is 'ica algorithms' a type of 'computational linguistics'?
+cso_q14,Is 'tamper detection' a type of 'computer security'?
+cso_q15,Is 'rfid' a type of 'computer imaging and vision'?
+cso_q16,Is 'anomaly detection methods' a type of 'computer security'?
+cso_q17,Is 'face recognition performance' a type of 'computer imaging and vision'?
+cso_q18,Is 'ppm' a type of 'communication systems'?
+cso_q19,Is 'multimodal dialogue systems' a type of 'computer science'?
+cso_q20,Is 'rule based reasoning' a type of 'computer science'?
+cso_q21,Is 'triphones' a type of 'database systems'?
+cso_q22,Is 'model based testing' a type of 'microprocessor chips'?
+cso_q23,Is 'border gateway protocol %28bgp%29' a type of 'computer system'?
+cso_q24,Is 'small sample size problems' a type of 'computer imaging and vision'?
+cso_q25,Is 'fuzzy partition' a type of 'computer science'?
+cso_q26,Is 'media access control %28mac%29' a type of 'computer systems'?
+cso_q27,Is 'huffman' a type of 'image analysis'?
+cso_q28,Is 'low jitters' a type of 'computer science'?
+cso_q29,Is 'binoculars' a type of 'computer imaging and vision'?
+cso_q30,Is 'ieee 802.16' a type of 'computer science'?
+cso_q31,Is 'photoacoustic imaging' a type of 'matrix algebra'?
+cso_q32,Is 'ordinary differential equations' a type of 'mathematics'?
+cso_q33,Is 'dynamic bayesian networks' a type of 'computer system'?
+cso_q34,Is 'asian continental ancestry group' a type of 'computer science'?
+cso_q35,Is 'broadcasting' a type of 'computer system'?
+cso_q36,Is 'wavelet analysis' a type of 'computer science'?
+cso_q37,Is 'high resolution image' a type of 'computer science'?
+cso_q38,Is 'architecture knowledge exploiting' a type of 'computer science'?
+cso_q39,Is 'registration accuracy' a type of 'computer science'?
+cso_q40,Is 'exact solution' a type of 'mathematics'?
+cso_q41,Is 'timing jitter' a type of 'computer science'?
+cso_q42,Is 'smart phone' a type of 'computer communication networks'?
+cso_q43,Is 'mammograms' a type of 'computer imaging and vision'?
+cso_q44,Is 'lmi approach' a type of 'mathematics'?
+cso_q45,Is 'rate distortion theory' a type of 'computer imaging and vision'?
+cso_q46,Is 'wavelength assignment' a type of 'computer systems'?
+cso_q47,Is '40 gb%2Fs' a type of 'packet networks'?
+cso_q48,Is 'non-linear optical properties' a type of 'computer hardware'?
+cso_q49,Is 'chinese word segmentation' a type of 'machine learning methods'?
+cso_q50,Is 'acoustic surface wave filters' a type of 'signal processing'?
+cso_q51,Is 'pre-coding' a type of 'relational data models'?
+cso_q52,Is 'analog differential analyzers' a type of 'speaker adaptation'?
+cso_q53,Is 'iar' a type of 'fluid simulation'?
+cso_q54,Is 'orthogonal frequency-division multiplexing %28ofdm%29' a type of 'electric power supplies to apparatus'?
+cso_q55,Is 'modes of operation' a type of 'concurrent transactions'?
+cso_q56,Is 'digital image watermarking' a type of 'queuing systems'?
+cso_q57,Is 'doherty power amplifier' a type of 'understandability'?
+cso_q58,Is 'route discovery' a type of 'reinforcement learning agent'?
+cso_q59,Is 'computer assisted language learning' a type of 'medical images'?
+cso_q60,Is 'software frameworks' a type of 'frequency control'?
+cso_q61,Is 'semantic gap' a type of 'point-spread function'?
+cso_q62,Is 'optical scanners' a type of 'pentacenes'?
+cso_q63,Is 'tracking radar' a type of '3d video coding'?
+cso_q64,Is 'pareto optimal' a type of 'unified modelling language'?
+cso_q65,Is 'adaptive arrays' a type of 'software quality models'?
+cso_q66,Is 'context recognition' a type of 'texas instruments'?
+cso_q67,Is 'sparql' a type of 'unconstrained optimization problems'?
+cso_q68,Is 'underactuated systems' a type of 'controller parameter'?
+cso_q69,Is 'unified modeling language' a type of 'interference channel'?
+cso_q70,Is 'spectral efficiencies' a type of 'drm system'?
+cso_q71,Is 'h.264%2Favc' a type of 'control packets'?
+cso_q72,Is 'least squares approximations' a type of 'image retrieval systems'?
+cso_q73,Is 'systolic array' a type of 'joint source-channel coding'?
+cso_q74,Is 'karyotyping' a type of 'adaptive modulation'?
+cso_q75,Is 'kalman filter algorithms' a type of 'neural-symbolic integration'?
+cso_q76,Is 'teleconferencing' a type of 'fast fourier transform algorithm'?
+cso_q77,Is 'structural frames' a type of 'wavelength assignment'?
+cso_q78,Is 'integrated circuit testing' a type of 'total transmit power'?
+cso_q79,Is 'distributed systems' a type of 'closed-loop control'?
+cso_q80,Is 'incompressible fluid' a type of 'non-binary ldpc codes'?
+cso_q81,Is 'open stubs' a type of 'evolutionary search'?
+cso_q82,Is 'terminal sliding mode control' a type of 'phase change memory'?
+cso_q83,Is 'morphological filter' a type of 'ant systems'?
+cso_q84,Is 'neutral type' a type of 'incompressible flow'?
+cso_q85,Is 'snmp' a type of 'hybrid recommendation'?
+cso_q86,Is 'data integration system' a type of 'software protection'?
+cso_q87,Is 'image registration algorithm' a type of 'tactics for modifiability'?
+cso_q88,Is 'information and communication technologies %28ict%29' a type of 'wideband signals'?
+cso_q89,Is 'cell phones' a type of 'sea state'?
+cso_q90,Is 'cortical sensory aphasia' a type of 'semantic gap'?
+cso_q91,Is 'modeling languages' a type of 'localization algorithm'?
+cso_q92,Is 'markov random field %28mrf%29' a type of 'nfc'?
+cso_q93,Is 'tcp traffic' a type of 'local decisions'?
+cso_q94,Is 'component-based software development' a type of 'wearable computers'?
+cso_q95,Is 'phase detectors' a type of 'stochastic simulations'?
+cso_q96,Is 'electromechanical systems' a type of 'input models'?
+cso_q97,Is 'particle beam injection' a type of 'computer aided design'?
+cso_q98,Is 'transmission power control' a type of 'music genre classification'?
+cso_q99,Is 'uniform linear array' a type of 'biped robots'?
+cso_q100,Is 'fortran codes' a type of 'localization problems'?

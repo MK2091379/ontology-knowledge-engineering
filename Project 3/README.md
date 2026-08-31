@@ -1,4 +1,4 @@
-# Ontology and Knowledge Engineering
+# Knowledge Engineering on FarseNet
 
 ## Description
 This repository contains a computational knowledge engineering system and semantic network query engine developed for Knowledge Representation and Reasoning (KRR) over structured lexical ontologies. Utilizing the FarsNet knowledge base (the Persian WordNet ontology), the project implements relational fact extraction, semantic graph construction, hierarchical taxonomy traversal, and automated inference algorithms for relational reasoning (e.g., hypernymy, hyponymy, meronymy, and domain-specific semantic relations).

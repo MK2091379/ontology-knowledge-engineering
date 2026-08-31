@@ -1,0 +1,101 @@
+id,question,answer
+pleiades_q1,Is 'Tagrus (mountain)' a type of 'mountain'?,Yes
+pleiades_q2,"Is 'Zeus Ainesios, T.' a type of 'temple-2'?",Yes
+pleiades_q3,Is 'Sládkovičovo' a type of 'cemetery'?,Yes
+pleiades_q4,Is 'Amaravati' a type of 'settlement'?,Yes
+pleiades_q5,Is 'Antium' a type of 'port'?,Yes
+pleiades_q6,Is 'Ision M.' a type of 'unlocated'?,Yes
+pleiades_q7,Is 'Montagna del Bosco' a type of 'fort'?,Yes
+pleiades_q8,Is 'Varcia' a type of 'settlement-modern'?,Yes
+pleiades_q9,Is 'Fundus Aeschinianus' a type of 'unlocated'?,Yes
+pleiades_q10,Is 'Peritas' a type of 'settlement'?,Yes
+pleiades_q11,Is 'Radani (river)' a type of 'river'?,Yes
+pleiades_q12,Is 'Large Theater' a type of 'theatre'?,Yes
+pleiades_q13,Is 'Baranduz tepe' a type of 'settlement'?,Yes
+pleiades_q14,Is 'Saraceno di Favara' a type of 'villa'?,Yes
+pleiades_q15,Is 'Beberaci L.' a type of 'lake'?,Yes
+pleiades_q16,Is 'Balagaia' a type of 'unlocated'?,Yes
+pleiades_q17,Is 'Turris Rutunda' a type of 'villa'?,Yes
+pleiades_q18,Is 'Hylai' a type of 'settlement'?,Yes
+pleiades_q19,Is 'Sukhumskaya Gora' a type of 'settlement'?,Yes
+pleiades_q20,Is 'Unnamed iron mine' a type of 'mine-2'?,Yes
+pleiades_q21,Is 'Iar Kome' a type of 'unlocated'?,Yes
+pleiades_q22,Is 'Gedranitae?' a type of 'people'?,Yes
+pleiades_q23,Is 'Winterton' a type of 'villa'?,Yes
+pleiades_q24,Is 'Temple of Apollo' a type of 'temple-2'?,Yes
+pleiades_q25,Is 'Künzing Roman amphitheater' a type of 'amphitheatre'?,Yes
+pleiades_q26,Is 'Palace of Ashurbanipal' a type of 'architecturalcomplex'?,Yes
+pleiades_q27,Is 'Crown Prince's Palace at Assur' a type of 'palace'?,Yes
+pleiades_q28,Is 'Adrion (mountain)' a type of 'mountain'?,Yes
+pleiades_q29,Is 'Treoua' a type of 'unlocated'?,Yes
+pleiades_q30,Is 'Aithikia' a type of 'region'?,Yes
+pleiades_q31,Is 'Nemantourista' a type of 'unlocated'?,Yes
+pleiades_q32,Is 'Aggersel?' a type of 'settlement'?,Yes
+pleiades_q33,Is 'Olteni' a type of 'fort'?,Yes
+pleiades_q34,Is 'Libba' a type of 'settlement'?,Yes
+pleiades_q35,Is 'Orsum' a type of 'settlement'?,Yes
+pleiades_q36,Is 'Darna' a type of 'unlocated'?,Yes
+pleiades_q37,Is 'el Gahra' a type of 'fort'?,Yes
+pleiades_q38,Is 'Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason' a type of 'tomb'?,Yes
+pleiades_q39,Is 'Panormos (Chalkidiki)' a type of 'settlement-modern'?,Yes
+pleiades_q40,Is 'Rhebas (river)' a type of 'river'?,Yes
+pleiades_q41,Is 'Paliopyrgos tower' a type of 'tower-single'?,Yes
+pleiades_q42,Is 'Tell Zubeidi' a type of 'tell'?,Yes
+pleiades_q43,Is 'Methone (Pieria)' a type of 'agora'?,Yes
+pleiades_q44,Is 'Lacus pastorum' a type of 'fountain'?,Yes
+pleiades_q45,Is 'Resava' a type of 'settlement'?,Yes
+pleiades_q46,Is 'Ubinnaca' a type of 'station'?,Yes
+pleiades_q47,Is 'Titane' a type of 'acropolis'?,Yes
+pleiades_q48,Is 'Santa Venera al Pozzo' a type of 'bath'?,Yes
+pleiades_q49,Is 'Handere bridge' a type of 'bridge'?,Yes
+pleiades_q50,Is 'Marchevo' a type of 'fort'?,Yes
+pleiades_q51,Is 'Roman amphitheater at Thibiuca' a type of 'tell'?,No
+pleiades_q52,Is 'Pons Tirenus' a type of 'odeon'?,No
+pleiades_q53,Is 'Villa of the Papyri' a type of 'palace-complex'?,No
+pleiades_q54,Is 'Celsa/Col. Victrix Iulia Lepida' a type of 'findspot'?,No
+pleiades_q55,Is 'Isarcus (river)' a type of 'bay'?,No
+pleiades_q56,Is 'Olèrdola' a type of 'anchorage'?,No
+pleiades_q57,Is 'Kabeirion' a type of 'satrapy'?,No
+pleiades_q58,Is 'Ilarkouris' a type of 'abbey-church'?,No
+pleiades_q59,Is 'Aveldius (river)' a type of 'treasury'?,No
+pleiades_q60,Is 'Armenia' a type of 'estuary'?,No
+pleiades_q61,Is 'Atrans' a type of 'arch'?,No
+pleiades_q62,Is 'Nousaripa' a type of 'bridge-group'?,No
+pleiades_q63,Is 'Vicus Carporum' a type of 'false toponym'?,No
+pleiades_q64,Is 'Los Cuadriales' a type of 'tell'?,No
+pleiades_q65,Is 'Tomb of Marcus Servilius Quartus' a type of 'earthworks'?,No
+pleiades_q66,Is '‘Heracleustibus’' a type of 'circus'?,No
+pleiades_q67,Is 'Teuparat' a type of 'feature'?,No
+pleiades_q68,Is 'Th(e)rambos' a type of 'mosque'?,No
+pleiades_q69,Is 'Gheorgheni' a type of 'castellum'?,No
+pleiades_q70,Is 'Borgo Medievale' a type of 'stupa'?,No
+pleiades_q71,Is 'Siberus/Syverus (river)' a type of 'lagoon'?,No
+pleiades_q72,"Is 'Second Temple, Jerusalem' a type of 'mountain'?",No
+pleiades_q73,Is 'Temple in Block X7' a type of 'unlabeled'?,No
+pleiades_q74,Is 'Arch of Hadrian at Athens' a type of 'temple'?,No
+pleiades_q75,Is 'Boumasanoi' a type of 'bath'?,No
+pleiades_q76,"Is 'Roman villa, via Michelangelo Tilli' a type of 'unlabeled'?",No
+pleiades_q77,Is 'Opis' a type of 'whirlpool'?,No
+pleiades_q78,Is 'Campo Real-Fillera' a type of 'findspot'?,No
+pleiades_q79,Is 'Giribaile' a type of 'dike'?,No
+pleiades_q80,Is 'Àger' a type of 'palace'?,No
+pleiades_q81,Is 'Creon (mountain)' a type of 'nome-gr'?,No
+pleiades_q82,Is 'Gallenos' a type of 'forum'?,No
+pleiades_q83,Is 'Tel Kisson' a type of 'findspot'?,No
+pleiades_q84,Is 'Balagrae' a type of 'pagus'?,No
+pleiades_q85,Is 'Boucheion' a type of 'archive-repository'?,No
+pleiades_q86,Is '‘Tripontio’' a type of 'agora'?,No
+pleiades_q87,Is 'Block E2' a type of 'villa'?,No
+pleiades_q88,Is 'Karatepe' a type of 'cultural-landscape'?,No
+pleiades_q89,"Is 'S. Iohannis, Mon.' a type of 'plateau'?",No
+pleiades_q90,Is 'Tiefencastel' a type of 'earthworks'?,No
+pleiades_q91,Is 'Roman theater at Cales' a type of 'bath'?,No
+pleiades_q92,Is 'Elatus (mountain)' a type of 'metalworking'?,No
+pleiades_q93,Is '*Astora?' a type of 'military-installation-or-camp-temporary'?,No
+pleiades_q94,Is 'Lake Mezzano' a type of 'watercourse'?,No
+pleiades_q95,Is 'Tagonios (river)' a type of 'frontier-system-limes'?,No
+pleiades_q96,Is 'Se(o)uerou' a type of 'tower-single'?,No
+pleiades_q97,Is 'Tongeren Gallo-Roman temple complex' a type of 'city-wall'?,No
+pleiades_q98,Is 'Gerulata' a type of 'gateway'?,No
+pleiades_q99,Is 'Iac(c)a' a type of 'basilica'?,No
+pleiades_q100,Is 'Artemis Laphria Sanctuary (Kalydon)' a type of 'vicus'?,No

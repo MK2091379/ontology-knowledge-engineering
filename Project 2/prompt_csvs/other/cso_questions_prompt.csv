@@ -1,0 +1,101 @@
+id,question
+cso_q1,Is 'motion planning' contributes To 'bilateral control'?
+cso_q2,Is 'physical layer' label 'physical layer@en .'?
+cso_q3,Is 'statistical analysis' contributes To 'spatial correlation'?
+cso_q4,Is 'speech transmission' type 'Topic'?
+cso_q5,Is 'human computer interaction' contributes To 'interactive digital tv'?
+cso_q6,Is 'markov decision process' contributes To 'probabilistic systems'?
+cso_q7,Is 'optimal systems' contributes To 'candidate solution'?
+cso_q8,Is 'teaching%2Flearning strategies' preferential Equivalent 'teaching%2Flearning strategies'?
+cso_q9,Is 'public key certificates' type 'Topic'?
+cso_q10,Is 'computer-aided design' contributes To 'three dimensional computer graphics'?
+cso_q11,Is 'monolithic microwave integrated circuits' type 'Topic'?
+cso_q12,Is 'multiple attribute decision making' related Equivalent 'multiple attribute decision making %28madm%29'?
+cso_q13,Is 'segmentation algorithms' contributes To 'object segmentation'?
+cso_q14,Is 'stable model semantics' related Equivalent 'stable model'?
+cso_q15,Is 'embedded technology' type 'Topic'?
+cso_q16,Is 'photonic integrations' label 'photonic integrations@en .'?
+cso_q17,Is 'preconditioned conjugate gradient method' label 'preconditioned conjugate gradient method@en .'?
+cso_q18,Is 'sensors' contributes To 'ultra-wideband'?
+cso_q19,Is 'mobile telecommunication systems' contributes To 'quality of service routing'?
+cso_q20,Is 'fiber bragg gratings' same As 'Q1397391'?
+cso_q21,Is 'known environments' label 'known environments@en .'?
+cso_q22,Is 'wireless sensor network %28wsns%29' contributes To 'ad-hoc networks'?
+cso_q23,Is 'multicast protocols' related Equivalent 'multicast transmissions'?
+cso_q24,Is 'ontology building' label 'ontology building@en .'?
+cso_q25,Is 'electronic commerce' contributes To 'marketing strategy'?
+cso_q26,Is 'image edge detection' same As 'Q1513153'?
+cso_q27,Is 'adaptive neuro-fuzzy inference system' contributes To 'anfis'?
+cso_q28,Is 'fiber laser' same As 'm.0c8nsd'?
+cso_q29,Is 'rbac' related Equivalent 'role-based access control %28rbac%29'?
+cso_q30,Is 'graphic methods' contributes To 'minimum degree'?
+cso_q31,Is 'expression recognition' same As 'm.01506s'?
+cso_q32,Is 'image compression' contributes To 'rate control'?
+cso_q33,Is 'wireless telecommunication systems' contributes To 'frequency selective fading'?
+cso_q34,Is 'atomic clocks' type 'Topic'?
+cso_q35,Is 'analog filters' type 'Topic'?
+cso_q36,Is 'information system' contributes To 'ajax'?
+cso_q37,Is 'taxonomy' contributes To 'type strain'?
+cso_q38,Is 'bit error rate' contributes To 'impulse radios'?
+cso_q39,Is 'transmittance' related Link '115816120'?
+cso_q40,Is 'wimax' same As 'm.02dl1f'?
+cso_q41,Is 'mobile applications' type 'Topic'?
+cso_q42,Is 'secret sharing schemes' related Equivalent 'secret sharing scheme'?
+cso_q43,Is 'wireless ad hoc network' type 'Topic'?
+cso_q44,Is 'three dimensional imaging' contributes To 'micro-ct'?
+cso_q45,Is 'single-carrier' related Equivalent 'single carrier'?
+cso_q46,Is 'semantics' contributes To 'world wide web'?
+cso_q47,Is 'mobile ad hoc networks %28manets%29' related Link 'Mobile ad hoc network'?
+cso_q48,Is 'chaotic oscillators' type 'Topic'?
+cso_q49,Is 'cosmic microwave backgrounds' type 'Topic'?
+cso_q50,Is 'wi-fi' contributes To 'indoor positioning systems'?
+cso_q51,Is 'video surveillance' same As 'overlay multicast@en .'?
+cso_q52,Is 'stego image' type 'grammatical inference'?
+cso_q53,Is 'query images' contributes To '121835503'?
+cso_q54,Is 'multiple classifier system' preferential Equivalent 'Type inference'?
+cso_q55,Is 'wireless nodes' same As 'forward security@en .'?
+cso_q56,Is 'internship%2C nonmedical' label 'precoding matrix@en .'?
+cso_q57,Is 'verifiable secret sharing' related Link 'pareto@en .'?
+cso_q58,Is 'automatic teller machines' same As '159437735'?
+cso_q59,Is 'diffie-hellman assumption' label 'Multiprotocol Label Switching'?
+cso_q60,Is 'discrete-time systems' type 'architecture technical debt'?
+cso_q61,Is 'tate pairing' related Link '2781234732'?
+cso_q62,Is 'synchronization scheme' type 'mac address@en .'?
+cso_q63,Is 'fixed wings' same As 'voice activity detection'?
+cso_q64,Is 'head related transfer function' label 'path planners@en .'?
+cso_q65,Is 'evolutionary strategies' label '50382708'?
+cso_q66,Is 'end-to-end delay' preferential Equivalent 'm.0d2j47'?
+cso_q67,Is 'qos routing algorithms' type '3d user interfaces@en .'?
+cso_q68,Is 'support vector machine %28svm%29' preferential Equivalent 'data communication equipment'?
+cso_q69,Is 'data flow graphs' type 'extracting information'?
+cso_q70,Is 'cmp' type 'Q288682'?
+cso_q71,Is 'smart sensors' preferential Equivalent 'wimax@en .'?
+cso_q72,Is 'key establishment' related Equivalent 'automatic text summarization@en .'?
+cso_q73,Is 'secondary user' label 'biometric techniques'?
+cso_q74,Is 'random graph models' type 'chen system@en .'?
+cso_q75,Is 'microsatellite repeats' related Equivalent '2777887233'?
+cso_q76,Is 'message authentication' label 'm.017cmr'?
+cso_q77,Is 'parallel robots' type 'nuclear plant@en .'?
+cso_q78,Is 'real-time tasks' type 'evolutionary strategy'?
+cso_q79,Is 'trajectory planning' label 'bayesian network structure'?
+cso_q80,Is 'physical layer security' type 'Q46384'?
+cso_q81,Is 'continuous time systems' related Equivalent '38104776'?
+cso_q82,Is 'wireless mesh network' type 'rna 28s'?
+cso_q83,Is 'radial basis' label 'contention window size'?
+cso_q84,Is 'service components' type 'real image sequences'?
+cso_q85,Is 'saw' preferential Equivalent 'intelligent tutoring system@en .'?
+cso_q86,Is 'skin detection' type 'distributed channels'?
+cso_q87,Is 'radio links' label '2777551494'?
+cso_q88,Is 'can bus' type 'computational grid'?
+cso_q89,Is 'global navigation satellite systems' related Equivalent 'low density parity check codes'?
+cso_q90,Is 'water distribution networks' label 'Integrated Services Digital Network'?
+cso_q91,Is 'nonlinear optical properties' type 'grid computing systems@en .'?
+cso_q92,Is 'semantic relationships' preferential Equivalent 'stereo cameras@en .'?
+cso_q93,Is 'gui' related Equivalent 'tutoring system@en .'?
+cso_q94,Is 'model-checking' preferential Equivalent '2778642129'?
+cso_q95,Is 'distributed antenna systems' label 'formal languages and automata theory@en .'?
+cso_q96,Is 'memory access patterns' label 'full rate@en .'?
+cso_q97,Is 'object-oriented programming' contributes To 'Q475000'?
+cso_q98,Is 'logic synthesis' same As 'photon mapping@en .'?
+cso_q99,Is 'range queries' preferential Equivalent 'k-nn classifier@en .'?
+cso_q100,Is 'smart environments' related Equivalent 'stock returns@en .'?

@@ -1,0 +1,101 @@
+id,question,answer
+fma_q1,Is 'Right acetabular fossa' a type of 'Anatomical surface'?,Yes
+fma_q2,Is 'Vasculature of body proper' a type of 'Organ part cluster'?,Yes
+fma_q3,Is 'Neuronal component of gray matter of T3 segment' a type of 'Anatomical structure'?,Yes
+fma_q4,Is 'Preganglionic segment of posterior root of seventh thoracic spinal nerve' a type of 'Segment of neural tree organ'?,Yes
+fma_q5,Is 'Surface of left supraspinous fossa' a type of 'Bona fide anatomical surface'?,Yes
+fma_q6,Is 'C6 ventral column nucleus of left superior subscapular nerve' a type of 'Segment of gray matter of spinal cord'?,Yes
+fma_q7,Is 'Subdivision of fetal skeletal system' a type of 'Anatomical structure'?,Yes
+fma_q8,Is 'Surface of right parietal lobe' a type of 'Surface of organ region'?,Yes
+fma_q9,Is 'CD100+ lymphocyte' a type of 'Nucleated cell'?,Yes
+fma_q10,Is 'Axillary nerve branch of posterior division of anterior ramus of left sixth cervical nerve' a type of 'Branch of spinal nerve'?,Yes
+fma_q11,Is 'Compact bone of distal epiphysis of middle phalanx of left little finger' a type of 'Compact bone of zone of long bone'?,Yes
+fma_q12,Is 'Anterior cranial fossa' a type of 'Immaterial anatomical entity'?,Yes
+fma_q13,Is 'Compact bone of diaphysis proper of phalanx of left little finger' a type of 'Compact bone of zone of long bone'?,Yes
+fma_q14,Is 'External medial border of right nasal bone' a type of 'Bona fide anatomical line'?,Yes
+fma_q15,Is 'Primitive cardiac chamber' a type of 'Physical anatomical entity'?,Yes
+fma_q16,Is 'Segment of inferior olivary complex' a type of 'Organ region'?,Yes
+fma_q17,Is 'Muscle fasciculus of right inferior longitudinal muscle of tongue' a type of 'Postnatal anatomical structure'?,Yes
+fma_q18,Is 'Synovial membrane of articular capsule of distal interphalangeal joint of ring finger' a type of 'Synovial membrane of articular capsule of synovial joint'?,Yes
+fma_q19,Is 'Solitary lymphoid follicle of jejunum' a type of 'Organized mucosa-associated lymphoid tissue'?,Yes
+fma_q20,Is 'Right superficial anterior lens cortex' a type of 'Portion of tissue'?,Yes
+fma_q21,Is 'Proximal segment of left tibial collateral ligament' a type of 'Organ segment'?,Yes
+fma_q22,Is 'Superior ligament of right incus' a type of 'Ligament organ'?,Yes
+fma_q23,Is 'Vasculature of fourth thoracic vertebra' a type of 'Vasculature'?,Yes
+fma_q24,Is 'Left subcostal vein' a type of 'Segment of hollow tree organ'?,Yes
+fma_q25,Is 'Posterior intra-occipital synchondrosis' a type of 'Anatomical junction'?,Yes
+fma_q26,Is 'Periosteum of right incus' a type of 'Membranous layer of organ wall'?,Yes
+fma_q27,Is 'Upper inner quadrant of female breast' a type of 'Region of anterior chest'?,Yes
+fma_q28,Is 'Medial antebrachial cutaneous nerve component of trunk of anterior ramus of left first thoracic nerve' a type of 'Segment of neural tree organ'?,Yes
+fma_q29,Is 'Vasculature of distal phalanx of right third toe' a type of 'Vasculature of long bone'?,Yes
+fma_q30,Is 'Left perineal artery' a type of 'Systemic artery'?,Yes
+fma_q31,Is 'Lumen of lobular lactiferous duct' a type of 'Physical anatomical entity'?,Yes
+fma_q32,Is 'Left cardiac lymphatic trunk' a type of 'Organ component'?,Yes
+fma_q33,Is 'Root canal of left lower lateral incisor tooth' a type of 'Anatomical cavity'?,Yes
+fma_q34,Is 'Trunk of branch of right anterior choroidal artery to red nucleus' a type of 'Systemic arterial trunk'?,Yes
+fma_q35,Is 'Trunk of acetabular branch of medial circumflex femoral artery' a type of 'Arterial trunk'?,Yes
+fma_q36,Is 'Left costal facet of body of fourth thoracic vertebra' a type of 'Subdivision of surface of body of vertebra'?,Yes
+fma_q37,Is 'Cavity of middle phalanx of middle finger' a type of 'Anatomical space'?,Yes
+fma_q38,Is 'Groove for branch of middle meningeal artery' a type of 'Anatomical surface'?,Yes
+fma_q39,Is 'Right labium majus' a type of 'Subdivision of trunk'?,Yes
+fma_q40,Is 'Epimysium of right flexor hallucis brevis' a type of 'Organ component layer'?,Yes
+fma_q41,Is 'Cartilage of body of fifth cervical vertebra' a type of 'Cartilage tissue'?,Yes
+fma_q42,Is 'Border of thyroid gland' a type of 'Immaterial anatomical entity'?,Yes
+fma_q43,Is 'Articular cartilage of tubercle of left sixth rib' a type of 'Hyaline cartilage'?,Yes
+fma_q44,Is 'Compartment of middle abdomen' a type of 'Postnatal anatomical structure'?,Yes
+fma_q45,Is 'Compact bone of diaphysis of left fibula' a type of 'Tissue component of lamellar bone'?,Yes
+fma_q46,Is 'Bony part of seventh thoracic vertebral arch' a type of 'Cardinal organ part'?,Yes
+fma_q47,Is 'Fascia of flexor pollicis brevis' a type of 'Organ component layer'?,Yes
+fma_q48,Is 'CD3+CD16+ lymphocyte' a type of 'Somatic cell'?,Yes
+fma_q49,Is 'Tendon of right first interspinalis lumborum' a type of 'Organ component'?,Yes
+fma_q50,Is 'Periosteum of right second rib' a type of 'Membranous layer of organ wall'?,Yes
+fma_q51,Is 'Visceral pelvic peritoneum' a type of 'Lateral part of plantar digital artery of right fifth toe'?,No
+fma_q52,Is 'Periosteum of diaphysis proper of first metatarsal bone' a type of 'Ampulla of right deferent duct'?,No
+fma_q53,Is 'Purkinje cell layer of cortex of right hemisphere of cerebellum' a type of 'Superficial part of pes anserinus'?,No
+fma_q54,Is 'Head of second palmar interosseous of left hand' a type of 'Set of right splenius muscles'?,No
+fma_q55,Is 'Lobar branch of right anterior superior segmental renal artery' a type of 'Trunk of superficial branch of left medial circumflex femoral artery'?,No
+fma_q56,Is 'Vasculature of left ring finger' a type of 'Groove for left third rib'?,No
+fma_q57,Is 'Ostium of left apicoposterior pulmonary artery' a type of 'C7 root of left thoracodorsal nerve'?,No
+fma_q58,Is 'Arcuate branch of posterior segmental renal artery' a type of 'Anterior wall of pyloric antrum'?,No
+fma_q59,Is 'Cartilage of left superior surface of posterolateral part of body of fourth thoracic vertebra' a type of 'Inferoposterior lobule of prostate'?,No
+fma_q60,Is 'Umbilical fold' a type of 'Compact bone of posterolateral part of body of fourth lumbar vertebra'?,No
+fma_q61,Is 'Third part of occipital artery' a type of 'Gluteal surface of ilium'?,No
+fma_q62,Is 'Lumbar ganglion' a type of 'Posterolateral part of arm'?,No
+fma_q63,Is 'Muscular branch of left internal pudendal artery' a type of 'A4 pulley of left index finger'?,No
+fma_q64,Is 'Stratum lucidum of epidermis' a type of 'Cortex of right frontal lobe'?,No
+fma_q65,Is 'Posterior polar zone of right lens' a type of 'Peritoneal mesentery'?,No
+fma_q66,Is 'Trunk of branch of recurrent laryngeal nerve to posterior crico-arytenoid' a type of 'Wall of right subclavian artery'?,No
+fma_q67,Is 'Proatlantal intersegmental artery' a type of 'First dorsal tarsometatarsal ligament'?,No
+fma_q68,Is 'Inferior subtendinous bursa of biceps femoris' a type of 'Inferior flexure of duodenum'?,No
+fma_q69,Is 'Nerve to right transverse muscle of tongue' a type of 'Muscular branch of median nerve'?,No
+fma_q70,Is 'Distal zone of vastus medialis' a type of 'Anterior margin of right first costal cartilage'?,No
+fma_q71,Is 'Brodmann area 24 of right cingulate gyrus' a type of 'Medial cord segment of C8 root of left medial antebrachial cutaneous nerve'?,No
+fma_q72,Is 'Communicating branch between medial common plantar digital nerve with third common plantar digital nerve' a type of 'Zone of reticular formation'?,No
+fma_q73,Is 'Interosseous metacarpal space of right hand' a type of 'Inferior surface of left clavicle'?,No
+fma_q74,Is 'Neural network of atrium' a type of 'Set of norepinephric cells in caudolateral pons [A5]'?,No
+fma_q75,Is 'Stroma of right ovary' a type of 'Articular cartilage of proximal epiphysis of fifth metacarpal bone'?,No
+fma_q76,Is 'Anterior surface of left scalenus medius' a type of 'Left neurocentral junction of second thoracic vertebra'?,No
+fma_q77,Is 'Fascia of posterior cervical intertransversarius' a type of 'Accessory subsuperior ramus of right posterior basal segmental bronchus'?,No
+fma_q78,Is 'C5 segment of left dorsal funiculus of spinal cord' a type of 'Distal tendon of alar part of right nasalis'?,No
+fma_q79,Is 'Synovial fluid of left proximal radioulnar joint' a type of 'Nerve to right pronator quadratus'?,No
+fma_q80,Is 'Ophthalmic-hypophysial segment of trunk of cerebral part of internal carotid artery' a type of 'Segment of cortex of gyrus of limbic lobe'?,No
+fma_q81,Is 'Cutaneous branch of medial branch of posterior ramus of third cervical nerve' a type of 'Periosteum of superior articular process of fifth thoracic vertebra'?,No
+fma_q82,Is 'Lateral pectoral nerve' a type of 'Unnamed branch of right seventh posterior intercostal artery'?,No
+fma_q83,Is 'Left ureteral orifice' a type of 'Intervertebral disk of fifth thoracic vertebra'?,No
+fma_q84,Is 'Set of fimbriae of hippocampus' a type of 'Systemic capillary bed'?,No
+fma_q85,Is 'Left tibia' a type of 'Area of insertion of adductor brevis'?,No
+fma_q86,Is 'Tenth thoracic vertebral arch' a type of 'Nerve to femoral artery'?,No
+fma_q87,Is 'Parenchyma of posterior lobe of prostate' a type of 'Epimysium of second plantar interosseous of right foot'?,No
+fma_q88,Is 'Lysine' a type of 'Lumen of intermediate interlobular bronchus'?,No
+fma_q89,Is 'Lymph node group of head' a type of 'Periosteum of articular process of sixth thoracic vertebra'?,No
+fma_q90,Is 'First left anterior branch of anterior interventricular branch of left coronary artery' a type of 'Posterior branch of axillary nerve'?,No
+fma_q91,Is 'External surface of ureter proper' a type of 'Set of trabeculae of left corpus cavernosum of penis'?,No
+fma_q92,Is 'Inferior angle of right scapula' a type of 'Lobule of sebaceous gland'?,No
+fma_q93,Is 'Labial part of vestibule of mouth' a type of 'Intertrochanteric line'?,No
+fma_q94,Is 'Costal groove of lobe of lung' a type of 'Transverse branch of meningeal branch of left sixth thoracic nerve'?,No
+fma_q95,Is 'Distal tendon of right tibialis anterior' a type of 'Muscle layer of subdivision of duodenum'?,No
+fma_q96,Is 'Surface of distal epiphysis of right femur' a type of 'Synovial membrane of articular capsule of C4-C5 vertebral arch joint'?,No
+fma_q97,Is 'Integument of right pectoral girdle' a type of 'Bony part of proximal phalanx of right ring finger'?,No
+fma_q98,Is 'Palmar carpal branch of right radial artery' a type of 'Skin of anterolateral part of knee'?,No
+fma_q99,Is 'Fourth metatarsal facet of right cuboid bone' a type of 'Branch of suprascapular nerve to glenohumeral joint'?,No
+fma_q100,Is 'Right lesser wing proper of sphenoid' a type of 'Skin of lower outer quadrant of left breast'?,No
