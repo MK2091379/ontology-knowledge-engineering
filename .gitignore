@@ -170,7 +170,7 @@ fabric.properties
 # Microsoft Word Document Files
 *.doc
 *.docx
-.docm
+*.docm
 
 # X BitMap
 *.xbm
