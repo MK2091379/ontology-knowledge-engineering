@@ -15,47 +15,53 @@ This portfolio demonstrates proficiency in modeling complex real-world domains, 
 ## 📁 Projects Overview
 
 ### 1. 🪙 Gold Price Economic Ontology & Knowledge Graph
-*   **Focus:** Ontology Modeling, Neo4j, Cypher, RDF/OWL.
-*   **Description:** Models the complex economic, political, and geopolitical factors influencing global gold prices (from the Russia-Ukraine war to the present). It uses Neo4j to visualize and logically query the interconnectedness of variables like oil prices, inflation, and sanctions.
-*   **Highlights:**
-    *   Rich ontology with 48 nodes and 64 relationships.
-    *   Automated Cypher generation from JSON exports.
-    *   Conversion of graph data to Semantic Web standards (RDF/OWL).
+
+- **Focus:** Ontology Modeling, Neo4j, Cypher, RDF/OWL.
+- **Description:** Models the complex economic, political, and geopolitical factors influencing global gold prices (from the Russia-Ukraine war to the present). It uses Neo4j to visualize and logically query the interconnectedness of variables like oil prices, inflation, and sanctions.
+- **Highlights:**
+    - Rich ontology with 48 nodes and 64 relationships.
+    - Automated Cypher generation from JSON exports.
+    - Conversion of graph data to Semantic Web standards (RDF/OWL).
 
 ### 2. 🧠 Knowledge Graph Reasoning and LLM Evaluation
-*   **Focus:** LLM Evaluation, Multi-hop Reasoning, Triplet Extraction, Zero-shot vs. Context-augmented Prompting.
-*   **Description:** Systematically evaluates the reasoning capabilities of GPT-4.1 over structured Knowledge Graphs across diverse domains (Computer Science, Biology, Geography, Medicine).
-*   **Highlights:**
-    *   Automated extraction of hierarchical (`is_a`) and non-hierarchical (`other`) triplets.
-    *   Generation of multi-level YES/NO questions (single-hop to 7-hop paths).
-    *   Empirical analysis showing the dramatic performance increase when LLMs are provided with explicit KG context.
+
+- **Focus:** LLM Evaluation, Multi-hop Reasoning, Triplet Extraction, Zero-shot vs. Context-augmented Prompting.
+- **Description:** Systematically evaluates the reasoning capabilities of GPT-4.1 over structured Knowledge Graphs across diverse domains (Computer Science, Biology, Geography, Medicine).
+- **Highlights:**
+    - Automated extraction of hierarchical (`is_a`) and non-hierarchical (`other`) triplets.
+    - Generation of multi-level YES/NO questions (single-hop to 7-hop paths).
+    - Empirical analysis showing the dramatic performance increase when LLMs are provided with explicit KG context.
 
 ### 3. 🕸️ Knowledge Engineering on FarseNet
-*   **Focus:** Lexical Semantic Networks, Graph Search, NetworkX, Persian WordNet.
-*   **Description:** A computational knowledge engineering system built over the FarsNet knowledge base. It implements relational fact extraction, semantic graph construction, and automated inference algorithms for lexical semantic relations (hypernymy, hyponymy, etc.).
-*   **Highlights:**
-    *   Directed semantic graph instantiation using `NetworkX`.
-    *   Hierarchical taxonomy traversal and semantic path finding.
-    *   Processing of structured tabular fact datasets (`farsnet_facts.tsv`).
+
+- **Focus:** Lexical Semantic Networks, Graph Search, NetworkX, Persian WordNet.
+- **Description:** A computational knowledge engineering system built over the FarsNet knowledge base. It implements relational fact extraction, semantic graph construction, and automated inference algorithms for lexical semantic relations (hypernymy, hyponymy, etc.).
+- **Highlights:**
+    - Directed semantic graph instantiation using `NetworkX`.
+    - Hierarchical taxonomy traversal and semantic path finding.
+    - Processing of structured tabular fact datasets (`farsnet_facts.tsv`).
 
 ---
 
 ## 🛠️ Technical Stack & Skills Demonstrated
 
 **Programming & Environments:**
-*   Python (Pandas, NumPy, NetworkX, rdflib)
-*   Jupyter Notebooks
+
+- Python (Pandas, NumPy, NetworkX, rdflib)
+- Jupyter Notebooks
 
 **Databases & Graph Technologies:**
-*   Neo4j (Cypher Query Language, Neo4j Admin)
-*   Knowledge Graphs & Semantic Networks
-*   Ontologies (OWL, RDF)
+
+- Neo4j (Cypher Query Language, Neo4j Admin)
+- Knowledge Graphs & Semantic Networks
+- Ontologies (OWL, RDF)
 
 **Core Concepts:**
-*   Knowledge Representation and Reasoning (KRR)
-*   LLM Prompt Engineering and Evaluation (Context-Augmented vs. Zero-Shot)
-*   Graph Modeling and Traversal Algorithms
-*   Semantic Querying and Path Finding
+
+- Knowledge Representation and Reasoning (KRR)
+- LLM Prompt Engineering and Evaluation (Context-Augmented vs. Zero-Shot)
+- Graph Modeling and Traversal Algorithms
+- Semantic Querying and Path Finding
 
 ---
 
@@ -68,8 +74,7 @@ Generally, you will need a Python environment with the standard data science and
 ```bash
 # Recommended environment setup
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts ctivate
+source venv/bin/activate
 pip install pandas numpy networkx rdflib jupyter
 ```
-
-*(Note: The Gold Price project requires a local installation of Neo4j to utilize the database dump and Cypher scripts).* 
+*(Note: The Gold Price project requires a local installation of Neo4j to utilize the database dump and Cypher scripts).*  
