@@ -76,3 +76,6 @@ Generally, you will need a Python environment with the standard data science and
 python -m venv venv
 source venv/bin/activate
 pip install pandas numpy networkx rdflib jupyter
+```
+
+*(Note: The Gold Price project requires a local installation of Neo4j to utilize the database dump and Cypher scripts).*
