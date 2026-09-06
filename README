@@ -72,4 +72,4 @@ source venv/bin/activate  # On Windows: venv\Scripts ctivate
 pip install pandas numpy networkx rdflib jupyter
 ```
 
-*(Note: The Gold Price project requires a local installation of Neo4j to utilize the database dump and Cypher scripts).*
+*(Note: The Gold Price project requires a local installation of Neo4j to utilize the database dump and Cypher scripts).* 
